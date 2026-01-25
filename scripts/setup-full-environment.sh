@@ -453,11 +453,13 @@ deploy_vault_ai() {
     kubectl apply -f "$K8S_DIR/configmap.yaml"
     kubectl apply -f "$K8S_DIR/deployment.yaml"
     kubectl apply -f "$K8S_DIR/service.yaml"
+    kubectl apply -f "$K8S_DIR/vault-mcp-server.yaml"
 
     # Wait for deployments to be ready
     log_info "Waiting for Vault AI deployments to be ready..."
     kubectl rollout status deployment/vault-ai-web -n "$VAULT_AI_NAMESPACE" --timeout=120s
     kubectl rollout status deployment/mcp-proxy -n "$VAULT_AI_NAMESPACE" --timeout=120s
+    kubectl rollout status deployment/vault-mcp-server -n "$VAULT_AI_NAMESPACE" --timeout=120s
 
     log_success "Vault AI deployed to Kubernetes"
 }
@@ -484,6 +486,7 @@ validate_health() {
     log_info "Checking Vault AI pods..."
     local web_ready=$(kubectl get pods -n "$VAULT_AI_NAMESPACE" -l app.kubernetes.io/name=vault-ai-web --no-headers 2>/dev/null | grep -c "Running" || echo "0")
     local mcp_ready=$(kubectl get pods -n "$VAULT_AI_NAMESPACE" -l app.kubernetes.io/name=mcp-proxy --no-headers 2>/dev/null | grep -c "Running" || echo "0")
+    local mcp_server_ready=$(kubectl get pods -n "$VAULT_AI_NAMESPACE" -l app.kubernetes.io/name=vault-mcp-server --no-headers 2>/dev/null | grep -c "Running" || echo "0")
 
     if [ "$web_ready" -ge 1 ]; then
         log_success "Vault AI Web: Running"
@@ -497,6 +500,12 @@ validate_health() {
     else
         log_error "MCP Proxy: Not Running"
         all_healthy=false
+    fi
+
+    if [ "$mcp_server_ready" -ge 1 ]; then
+        log_success "Vault MCP Server: Running"
+    else
+        log_warn "Vault MCP Server: Not Running (AI features will use native fallback)"
     fi
 
     # Check Vault AI Web via NodePort

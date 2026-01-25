@@ -1,0 +1,108 @@
+# =============================================================================
+# HashiCorp Vault MCP Server Deployment
+# =============================================================================
+# Provides MCP (Model Context Protocol) interface to Vault for AI-assisted
+# operations via streamable-http transport.
+#
+# Reference: https://developer.hashicorp.com/vault/docs/mcp-server
+# =============================================================================
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: vault-mcp-server-config
+  namespace: vault-ai
+  labels:
+    app.kubernetes.io/name: vault-mcp-server
+    app.kubernetes.io/component: mcp
+    app.kubernetes.io/part-of: vault-ai
+data:
+  # Vault connection - uses vault-active service to ensure leader node
+  VAULT_ADDR: "http://vault-active.vault-ent.svc.cluster.local:8200"
+  # HTTP transport configuration
+  TRANSPORT_HOST: "0.0.0.0"
+  TRANSPORT_PORT: "8080"
+  MCP_ENDPOINT: "/mcp"
+  # CORS - allow requests from mcp-proxy
+  MCP_ALLOWED_ORIGINS: "http://mcp-proxy.vault-ai.svc.cluster.local:3001"
+  MCP_CORS_MODE: "development"
+  # Rate limiting (requests per second : burst)
+  MCP_RATE_LIMIT_GLOBAL: "100:200"
+  MCP_RATE_LIMIT_SESSION: "50:100"
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: vault-mcp-server
+  namespace: vault-ai
+  labels:
+    app.kubernetes.io/name: vault-mcp-server
+    app.kubernetes.io/component: mcp
+    app.kubernetes.io/part-of: vault-ai
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: vault-mcp-server
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: vault-mcp-server
+        app.kubernetes.io/component: mcp
+    spec:
+      containers:
+        - name: vault-mcp-server
+          image: hashicorp/vault-mcp-server:latest
+          imagePullPolicy: Always
+          command:
+            - "/bin/vault-mcp-server"
+            - "streamable-http"
+          ports:
+            - name: http
+              containerPort: 8080
+              protocol: TCP
+          envFrom:
+            - configMapRef:
+                name: vault-mcp-server-config
+          # Note: VAULT_TOKEN is passed via X-Vault-Token header per request
+          # The MCP server does NOT need a static token - tokens are per-session
+          # TCP probe since the MCP endpoint requires authentication
+          livenessProbe:
+            tcpSocket:
+              port: http
+            initialDelaySeconds: 10
+            periodSeconds: 30
+            timeoutSeconds: 5
+            failureThreshold: 3
+          readinessProbe:
+            tcpSocket:
+              port: http
+            initialDelaySeconds: 5
+            periodSeconds: 10
+            timeoutSeconds: 3
+            failureThreshold: 3
+          resources:
+            requests:
+              cpu: 50m
+              memory: 64Mi
+            limits:
+              cpu: 200m
+              memory: 128Mi
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: vault-mcp-server
+  namespace: vault-ai
+  labels:
+    app.kubernetes.io/name: vault-mcp-server
+    app.kubernetes.io/component: mcp
+    app.kubernetes.io/part-of: vault-ai
+spec:
+  type: ClusterIP
+  selector:
+    app.kubernetes.io/name: vault-mcp-server
+  ports:
+    - name: http
+      port: 8080
+      targetPort: http
+      protocol: TCP

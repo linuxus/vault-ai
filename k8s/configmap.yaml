@@ -147,6 +147,9 @@ metadata:
 data:
   # Vault address using Kubernetes service DNS (vault-active for active node only)
   VAULT_ADDR: "http://vault-active.vault-ent.svc.cluster.local:8200"
+  # vault-mcp-server address for AI-assisted operations
+  VAULT_MCP_SERVER_URL: "http://vault-mcp-server.vault-ai.svc.cluster.local:8080"
+  VAULT_MCP_ENDPOINT: "/mcp"
   PORT: "3001"
   FRONTEND_ORIGIN: "http://localhost:30080"
 ---

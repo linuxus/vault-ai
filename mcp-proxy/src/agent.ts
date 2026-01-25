@@ -1,7 +1,17 @@
 import Anthropic from '@anthropic-ai/sdk';
 import type { Response } from 'express';
-import type { ChatMessage, StreamEvent, ToolContext, AnthropicToolResult } from './types.js';
+import type { ChatMessage, StreamEvent, ToolContext, AnthropicToolResult, VaultTool } from './types.js';
 import { getNativeTools, executeNativeTool } from './tools/native-vault.js';
+import {
+  getMCPTools,
+  executeMCPTool,
+  isMCPServerAvailable,
+  clearMCPCache,
+} from './mcp-http-client.js';
+
+// Track which tool source is active
+let useMCPServer = true;
+let mcpServerChecked = false;
 
 const SYSTEM_PROMPT = `You are a helpful assistant for HashiCorp Vault. You help users manage secrets, PKI certificates, and Vault operations.
 
@@ -51,6 +61,59 @@ function sendEvent(res: Response, event: StreamEvent): void {
   res.write(`data: ${JSON.stringify(event)}\n\n`);
 }
 
+/**
+ * Get tools - tries vault-mcp-server first, falls back to native tools
+ */
+async function getTools(ctx: ToolContext): Promise<{ tools: VaultTool[]; source: 'mcp' | 'native' }> {
+  // Check MCP server availability on first call
+  if (!mcpServerChecked) {
+    mcpServerChecked = true;
+    useMCPServer = await isMCPServerAvailable();
+    console.log(`[Agent] vault-mcp-server available: ${useMCPServer}`);
+  }
+
+  // Try MCP server first
+  if (useMCPServer) {
+    try {
+      const mcpTools = await getMCPTools(ctx);
+      if (mcpTools.length > 0) {
+        console.log(`[Agent] Using vault-mcp-server tools (${mcpTools.length} tools)`);
+        return { tools: mcpTools, source: 'mcp' };
+      }
+    } catch (error) {
+      console.error('[Agent] Failed to get MCP tools, falling back to native:', error);
+      useMCPServer = false;
+      clearMCPCache();
+    }
+  }
+
+  // Fall back to native tools
+  const nativeTools = getNativeTools();
+  console.log(`[Agent] Using native tools (${nativeTools.length} tools)`);
+  return { tools: nativeTools, source: 'native' };
+}
+
+/**
+ * Execute a tool - routes to MCP server or native implementation
+ */
+async function executeTool(
+  toolName: string,
+  args: Record<string, unknown>,
+  ctx: ToolContext,
+  source: 'mcp' | 'native'
+): Promise<{ success: boolean; data?: unknown; error?: string }> {
+  if (source === 'mcp') {
+    try {
+      return await executeMCPTool(toolName, args, ctx);
+    } catch (error) {
+      console.error(`[Agent] MCP tool execution failed, trying native:`, error);
+      // Fall back to native on MCP failure
+      return await executeNativeTool(toolName, args, ctx);
+    }
+  }
+  return await executeNativeTool(toolName, args, ctx);
+}
+
 // Process a chat message with Claude and stream the response
 export async function processChat(
   message: string,
@@ -60,15 +123,15 @@ export async function processChat(
 ): Promise<void> {
   const anthropic = new Anthropic();
 
-  // Get available tools (native implementation)
-  const vaultTools = getNativeTools();
+  // Get available tools (hybrid: MCP server or native fallback)
+  const { tools: vaultTools, source: toolSource } = await getTools(ctx);
   const tools: Anthropic.Tool[] = vaultTools.map((tool) => ({
     name: tool.name,
     description: tool.description,
     input_schema: tool.input_schema as Anthropic.Tool['input_schema'],
   }));
 
-  console.log(`Available tools: ${vaultTools.map((t) => t.name).join(', ')}`);
+  console.log(`[Agent] Available tools (${toolSource}): ${vaultTools.map((t) => t.name).join(', ')}`);
 
   // Build messages array from history, filtering out empty messages
   const messages: Anthropic.MessageParam[] = history
@@ -157,11 +220,12 @@ export async function processChat(
           arguments: toolUse.input as Record<string, unknown>,
         });
 
-        // Execute the tool using native implementation
-        const result = await executeNativeTool(
+        // Execute the tool (MCP server or native fallback)
+        const result = await executeTool(
           toolUse.name,
           toolUse.input as Record<string, unknown>,
-          ctx
+          ctx,
+          toolSource
         );
 
         // Send tool result event
