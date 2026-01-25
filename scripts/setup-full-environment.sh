@@ -49,6 +49,8 @@ K8S_DIR="$PROJECT_DIR/k8s"
 
 # NodePort for Vault AI Web UI
 VAULT_AI_NODEPORT=30080
+# NodePort for Vault Server API
+VAULT_NODEPORT=30200
 
 # Colors for output
 RED='\033[0;31m'
@@ -162,8 +164,13 @@ apiVersion: kind.x-k8s.io/v1alpha4
 nodes:
 - role: control-plane
   extraPortMappings:
+  # Vault AI Web UI
   - containerPort: ${VAULT_AI_NODEPORT}
     hostPort: ${VAULT_AI_NODEPORT}
+    protocol: TCP
+  # Vault Server API
+  - containerPort: ${VAULT_NODEPORT}
+    hostPort: ${VAULT_NODEPORT}
     protocol: TCP
 - role: control-plane
 - role: control-plane
@@ -391,6 +398,11 @@ initialize_vault() {
 
     log_success "Vault cluster is initialized and unsealed"
 
+    # Create NodePort service for external access
+    log_info "Creating Vault NodePort service..."
+    kubectl apply -f "$K8S_DIR/vault-nodeport.yaml"
+    log_success "Vault accessible at http://localhost:${VAULT_NODEPORT}"
+
     # Export for later use
     export VAULT_TOKEN="$ROOT_TOKEN"
     echo ""
@@ -529,6 +541,15 @@ validate_health() {
         all_healthy=false
     fi
 
+    # Check Vault direct NodePort access
+    log_info "Checking Vault NodePort..."
+    local vault_direct=$(check_url "http://localhost:${VAULT_NODEPORT}/v1/sys/health")
+    if [ "$vault_direct" = "200" ] || [ "$vault_direct" = "429" ]; then
+        log_success "Vault NodePort: Working (port ${VAULT_NODEPORT})"
+    else
+        log_warn "Vault NodePort: Not accessible (HTTP $vault_direct)"
+    fi
+
     echo ""
     if [ "$all_healthy" = true ]; then
         log_success "All services are healthy!"
@@ -599,6 +620,7 @@ print_summary() {
     echo ""
     echo -e "${BOLD}Services:${NC}"
     echo -e "  Vault AI UI:     ${GREEN}http://localhost:${VAULT_AI_NODEPORT}${NC}"
+    echo -e "  Vault Server:    ${GREEN}http://localhost:${VAULT_NODEPORT}${NC}"
     echo ""
     echo -e "${BOLD}Authentication:${NC}"
     echo -e "  Root Token:      ${YELLOW}$ROOT_TOKEN${NC}"

@@ -4,8 +4,13 @@ apiVersion: kind.x-k8s.io/v1alpha4
 nodes:
 - role: control-plane
   extraPortMappings:
+  # Vault AI Web UI
   - containerPort: 30080
     hostPort: 30080
+    protocol: TCP
+  # Vault Server API
+  - containerPort: 30200
+    hostPort: 30200
     protocol: TCP
 - role: control-plane
 - role: control-plane
