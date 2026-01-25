@@ -1,0 +1,2759 @@
+<?xml version="1.0" encoding="ascii"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name="Shape 1462"/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:pic>
+        <p:nvPicPr>
+          <p:cNvPr id="1463" name="Google Shape;1463;p170" descr="Image"/>
+          <p:cNvPicPr preferRelativeResize="0"/>
+          <p:nvPr/>
+        </p:nvPicPr>
+        <p:blipFill rotWithShape="1">
+          <a:blip r:embed="rId3">
+            <a:alphaModFix/>
+          </a:blip>
+          <a:srcRect/>
+          <a:stretch/>
+        </p:blipFill>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="457200" y="457226"/>
+            <a:ext cx="289911" cy="306961"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+      </p:pic>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="1464" name="Google Shape;1464;p170"/>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="4294967295"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1249600" y="208475"/>
+            <a:ext cx="7175100" cy="774900"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="800"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1800"/>
+              <a:buFont typeface="Open Sans"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="2800" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:rPr>
+              <a:t>Significant Savings with TFE/C </a:t>
+            </a:r>
+            <a:endParaRPr sz="2800" b="1">
+              <a:latin typeface="Arial"/>
+              <a:ea typeface="Arial"/>
+              <a:cs typeface="Arial"/>
+              <a:sym typeface="Arial"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:graphicFrame>
+        <p:nvGraphicFramePr>
+          <p:cNvPr id="1465" name="Google Shape;1465;p170"/>
+          <p:cNvGraphicFramePr/>
+          <p:nvPr/>
+        </p:nvGraphicFramePr>
+        <p:xfrm>
+          <a:off x="517450" y="847525"/>
+          <a:ext cx="3000000" cy="3000000"/>
+        </p:xfrm>
+        <a:graphic>
+          <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+            <a:tbl>
+              <a:tblPr>
+                <a:noFill/>
+                <a:tableStyleId>{4E223B54-F7AB-44D8-B568-2D06C1BD706B}</a:tableStyleId>
+              </a:tblPr>
+              <a:tblGrid>
+                <a:gridCol w="1963100">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20000"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1043875">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20001"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1606125">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20002"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1081900">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20003"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="2034575">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20004"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+              </a:tblGrid>
+              <a:tr h="249900">
+                <a:tc gridSpan="5">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1200" b="1"/>
+                        <a:t>Per run labor costs (120 runs per year)</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1200" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10000"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="188950">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc gridSpan="2">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Current</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc gridSpan="2">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Future</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10001"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="227050">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Labor category</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Hours per run</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Total Annual Cost</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Hours per run</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Total Annual Cost</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10002"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="227050">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>Process execution</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>10</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>$120,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>2</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>$24,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10003"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="217525">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>Inspection and validation</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>4</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>$48,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>0</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10004"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="223225">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>Error correction</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>4</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>$48,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>0</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10005"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="188950">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Total</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>18</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>$216,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>2</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>$24,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10006"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+            </a:tbl>
+          </a:graphicData>
+        </a:graphic>
+      </p:graphicFrame>
+      <p:graphicFrame>
+        <p:nvGraphicFramePr>
+          <p:cNvPr id="1466" name="Google Shape;1466;p170"/>
+          <p:cNvGraphicFramePr/>
+          <p:nvPr/>
+        </p:nvGraphicFramePr>
+        <p:xfrm>
+          <a:off x="517450" y="2446550"/>
+          <a:ext cx="3000000" cy="3000000"/>
+        </p:xfrm>
+        <a:graphic>
+          <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+            <a:tbl>
+              <a:tblPr>
+                <a:noFill/>
+                <a:tableStyleId>{4E223B54-F7AB-44D8-B568-2D06C1BD706B}</a:tableStyleId>
+              </a:tblPr>
+              <a:tblGrid>
+                <a:gridCol w="2468675">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20000"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="633975">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20001"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1034200">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20002"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1041800">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20003"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1844625">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20004"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1404650">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20005"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+              </a:tblGrid>
+              <a:tr h="219425">
+                <a:tc gridSpan="6">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1200" b="1"/>
+                        <a:t>Annual costs</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1200" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10000"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="188950">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc gridSpan="3">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Current</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc gridSpan="2">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Future</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10001"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="188950">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Annual cost category</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Hours</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Cost per hour</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Total Cost</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Hours</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10002"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="188950">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>Downtime &amp; Waste</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>50</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>$5000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>$250,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>0</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>$0</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10003"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="236600">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>Scaffolding/ System maintenance labor</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>400</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>$100</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>  $40,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>240</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>$32,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10004"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="226125">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>Scaffolding operations (compute, etc)</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>  $50,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>$0</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10005"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="188950">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Total</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>$340,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>$32,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10006"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+            </a:tbl>
+          </a:graphicData>
+        </a:graphic>
+      </p:graphicFrame>
+      <p:graphicFrame>
+        <p:nvGraphicFramePr>
+          <p:cNvPr id="1467" name="Google Shape;1467;p170"/>
+          <p:cNvGraphicFramePr/>
+          <p:nvPr/>
+        </p:nvGraphicFramePr>
+        <p:xfrm>
+          <a:off x="517450" y="3931525"/>
+          <a:ext cx="3000000" cy="3000000"/>
+        </p:xfrm>
+        <a:graphic>
+          <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+            <a:tbl>
+              <a:tblPr>
+                <a:noFill/>
+                <a:tableStyleId>{4E223B54-F7AB-44D8-B568-2D06C1BD706B}</a:tableStyleId>
+              </a:tblPr>
+              <a:tblGrid>
+                <a:gridCol w="1984025">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20000"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1984025">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20001"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1984025">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20002"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+              </a:tblGrid>
+              <a:tr h="239525">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1200" b="1"/>
+                        <a:t>Non-quantified Costs</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1200" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Current</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1"/>
+                        <a:t>Future</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10000"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="231850">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>Breach risk - Secret leakage</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000">
+                          <a:solidFill>
+                            <a:srgbClr val="FF0000"/>
+                          </a:solidFill>
+                        </a:rPr>
+                        <a:t>YES</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000">
+                        <a:solidFill>
+                          <a:srgbClr val="FF0000"/>
+                        </a:solidFill>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000">
+                          <a:solidFill>
+                            <a:srgbClr val="02B87B"/>
+                          </a:solidFill>
+                        </a:rPr>
+                        <a:t>NO</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000">
+                        <a:solidFill>
+                          <a:srgbClr val="02B87B"/>
+                        </a:solidFill>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10001"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="215650">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>Breach risk - drift</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000">
+                          <a:solidFill>
+                            <a:srgbClr val="FF0000"/>
+                          </a:solidFill>
+                        </a:rPr>
+                        <a:t>YES</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000">
+                          <a:solidFill>
+                            <a:srgbClr val="02B87B"/>
+                          </a:solidFill>
+                        </a:rPr>
+                        <a:t>NO</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10002"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="184225">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000"/>
+                        <a:t>Opportunity Costs</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000">
+                          <a:solidFill>
+                            <a:srgbClr val="FF0000"/>
+                          </a:solidFill>
+                        </a:rPr>
+                        <a:t>YES</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000">
+                          <a:solidFill>
+                            <a:srgbClr val="02B87B"/>
+                          </a:solidFill>
+                        </a:rPr>
+                        <a:t>NO</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="18275" marB="18275"/>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10003"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+            </a:tbl>
+          </a:graphicData>
+        </a:graphic>
+      </p:graphicFrame>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="1468" name="Google Shape;1468;p170"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="6501000" y="3817500"/>
+            <a:ext cx="2762400" cy="1262100"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
+            <a:spAutoFit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1000" b="1" u="sng">
+                <a:solidFill>
+                  <a:srgbClr val="02B87B"/>
+                </a:solidFill>
+              </a:rPr>
+              <a:t>Outcomes improved dramatically</a:t>
+            </a:r>
+            <a:endParaRPr sz="1000" b="1" u="sng">
+              <a:solidFill>
+                <a:srgbClr val="02B87B"/>
+              </a:solidFill>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="114300" lvl="0" indent="-120650" algn="l" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="02B87B"/>
+              </a:buClr>
+              <a:buSzPts val="1000"/>
+              <a:buChar char="&#9679;"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1000">
+                <a:solidFill>
+                  <a:srgbClr val="02B87B"/>
+                </a:solidFill>
+              </a:rPr>
+              <a:t>Costs of people/time/# of steps</a:t>
+            </a:r>
+            <a:endParaRPr sz="1000">
+              <a:solidFill>
+                <a:srgbClr val="02B87B"/>
+              </a:solidFill>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="114300" lvl="0" indent="-120650" algn="l" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="02B87B"/>
+              </a:buClr>
+              <a:buSzPts val="1000"/>
+              <a:buChar char="&#9679;"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1000">
+                <a:solidFill>
+                  <a:srgbClr val="02B87B"/>
+                </a:solidFill>
+              </a:rPr>
+              <a:t>Costs of scaffolding and point solutions</a:t>
+            </a:r>
+            <a:endParaRPr sz="1000">
+              <a:solidFill>
+                <a:srgbClr val="02B87B"/>
+              </a:solidFill>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="114300" lvl="0" indent="-120650" algn="l" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="02B87B"/>
+              </a:buClr>
+              <a:buSzPts val="1000"/>
+              <a:buChar char="&#9679;"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1000">
+                <a:solidFill>
+                  <a:srgbClr val="02B87B"/>
+                </a:solidFill>
+              </a:rPr>
+              <a:t>Effort for Regulatory Compliance</a:t>
+            </a:r>
+            <a:endParaRPr sz="1000">
+              <a:solidFill>
+                <a:srgbClr val="02B87B"/>
+              </a:solidFill>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="114300" lvl="0" indent="-120650" algn="l" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="02B87B"/>
+              </a:buClr>
+              <a:buSzPts val="1000"/>
+              <a:buChar char="&#9679;"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1000">
+                <a:solidFill>
+                  <a:srgbClr val="02B87B"/>
+                </a:solidFill>
+              </a:rPr>
+              <a:t>Cost of Downtime</a:t>
+            </a:r>
+            <a:endParaRPr sz="1000">
+              <a:solidFill>
+                <a:srgbClr val="02B87B"/>
+              </a:solidFill>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="114300" lvl="0" indent="-120650" algn="l" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="02B87B"/>
+              </a:buClr>
+              <a:buSzPts val="1000"/>
+              <a:buChar char="&#9679;"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1000">
+                <a:solidFill>
+                  <a:srgbClr val="02B87B"/>
+                </a:solidFill>
+              </a:rPr>
+              <a:t>Risk of Breach due to drift, unsecured state files, variables, and runs</a:t>
+            </a:r>
+            <a:endParaRPr sz="1000" b="1">
+              <a:solidFill>
+                <a:srgbClr val="02B87B"/>
+              </a:solidFill>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+  <p:transition spd="med">
+    <p:fade thruBlk="1"/>
+  </p:transition>
+</p:sld>

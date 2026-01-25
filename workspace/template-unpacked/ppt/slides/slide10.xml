@@ -1,0 +1,1799 @@
+<?xml version="1.0" encoding="ascii"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name="Shape 522"/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:pic>
+        <p:nvPicPr>
+          <p:cNvPr id="523" name="Google Shape;523;p133" descr="Image"/>
+          <p:cNvPicPr preferRelativeResize="0"/>
+          <p:nvPr/>
+        </p:nvPicPr>
+        <p:blipFill rotWithShape="1">
+          <a:blip r:embed="rId3">
+            <a:alphaModFix/>
+          </a:blip>
+          <a:srcRect/>
+          <a:stretch/>
+        </p:blipFill>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8339739" y="461989"/>
+            <a:ext cx="289911" cy="306961"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+      </p:pic>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="524" name="Google Shape;524;p133"/>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="4294967295"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="457200" y="228626"/>
+            <a:ext cx="7471800" cy="956100"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="2900"/>
+              <a:buFont typeface="Open Sans"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="2700" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+              </a:rPr>
+              <a:t>SEA Engagement in Post-Sales Process</a:t>
+            </a:r>
+            <a:endParaRPr sz="2700" b="1">
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="2900"/>
+              <a:buFont typeface="Open Sans"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1800" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+              </a:rPr>
+              <a:t>(Globals &amp; Enterprise)</a:t>
+            </a:r>
+            <a:endParaRPr sz="1800" b="1">
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:cxnSp>
+        <p:nvCxnSpPr>
+          <p:cNvPr id="525" name="Google Shape;525;p133"/>
+          <p:cNvCxnSpPr/>
+          <p:nvPr/>
+        </p:nvCxnSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="628700" y="1162200"/>
+            <a:ext cx="4797000" cy="0"/>
+          </a:xfrm>
+          <a:prstGeom prst="straightConnector1">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln w="9525" cap="flat" cmpd="sng">
+            <a:solidFill>
+              <a:srgbClr val="BDBFC6"/>
+            </a:solidFill>
+            <a:prstDash val="solid"/>
+            <a:round/>
+            <a:headEnd type="oval" w="sm" len="sm"/>
+            <a:tailEnd type="oval" w="sm" len="sm"/>
+          </a:ln>
+        </p:spPr>
+      </p:cxnSp>
+      <p:cxnSp>
+        <p:nvCxnSpPr>
+          <p:cNvPr id="526" name="Google Shape;526;p133"/>
+          <p:cNvCxnSpPr/>
+          <p:nvPr/>
+        </p:nvCxnSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="473325" y="1845250"/>
+            <a:ext cx="4992600" cy="0"/>
+          </a:xfrm>
+          <a:prstGeom prst="straightConnector1">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln w="9525" cap="flat" cmpd="sng">
+            <a:solidFill>
+              <a:srgbClr val="D3D4D9"/>
+            </a:solidFill>
+            <a:prstDash val="solid"/>
+            <a:round/>
+            <a:headEnd type="none" w="sm" len="sm"/>
+            <a:tailEnd type="triangle" w="sm" len="sm"/>
+          </a:ln>
+        </p:spPr>
+      </p:cxnSp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="527" name="Google Shape;527;p133"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1145301" y="1350138"/>
+            <a:ext cx="987900" cy="956100"/>
+          </a:xfrm>
+          <a:prstGeom prst="ellipse">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:schemeClr val="accent1"/>
+          </a:solidFill>
+          <a:ln w="12700" cap="flat" cmpd="sng">
+            <a:solidFill>
+              <a:srgbClr val="E8E9EC"/>
+            </a:solidFill>
+            <a:prstDash val="solid"/>
+            <a:round/>
+            <a:headEnd type="none" w="sm" len="sm"/>
+            <a:tailEnd type="none" w="sm" len="sm"/>
+          </a:ln>
+          <a:effectLst>
+            <a:outerShdw blurRad="127000" sx="95000" sy="95000" algn="ctr" rotWithShape="0">
+              <a:srgbClr val="000000">
+                <a:alpha val="14900"/>
+              </a:srgbClr>
+            </a:outerShdw>
+          </a:effectLst>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="800">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Raleway"/>
+                <a:ea typeface="Raleway"/>
+                <a:cs typeface="Raleway"/>
+                <a:sym typeface="Raleway"/>
+              </a:rPr>
+              <a:t>On Board</a:t>
+            </a:r>
+            <a:endParaRPr sz="800">
+              <a:solidFill>
+                <a:srgbClr val="FFFFFF"/>
+              </a:solidFill>
+              <a:latin typeface="Raleway"/>
+              <a:ea typeface="Raleway"/>
+              <a:cs typeface="Raleway"/>
+              <a:sym typeface="Raleway"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="528" name="Google Shape;528;p133"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="2540925" y="1338700"/>
+            <a:ext cx="987900" cy="1014600"/>
+          </a:xfrm>
+          <a:prstGeom prst="ellipse">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:schemeClr val="accent1"/>
+          </a:solidFill>
+          <a:ln w="12700" cap="flat" cmpd="sng">
+            <a:solidFill>
+              <a:srgbClr val="E8E9EC"/>
+            </a:solidFill>
+            <a:prstDash val="solid"/>
+            <a:round/>
+            <a:headEnd type="none" w="sm" len="sm"/>
+            <a:tailEnd type="none" w="sm" len="sm"/>
+          </a:ln>
+          <a:effectLst>
+            <a:outerShdw blurRad="127000" sx="95000" sy="95000" algn="ctr" rotWithShape="0">
+              <a:srgbClr val="000000">
+                <a:alpha val="14900"/>
+              </a:srgbClr>
+            </a:outerShdw>
+          </a:effectLst>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="800">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Raleway"/>
+                <a:ea typeface="Raleway"/>
+                <a:cs typeface="Raleway"/>
+                <a:sym typeface="Raleway"/>
+              </a:rPr>
+              <a:t>Adopt</a:t>
+            </a:r>
+            <a:endParaRPr sz="800">
+              <a:solidFill>
+                <a:srgbClr val="FFFFFF"/>
+              </a:solidFill>
+              <a:latin typeface="Raleway"/>
+              <a:ea typeface="Raleway"/>
+              <a:cs typeface="Raleway"/>
+              <a:sym typeface="Raleway"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="529" name="Google Shape;529;p133"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4004249" y="1326688"/>
+            <a:ext cx="965400" cy="1014600"/>
+          </a:xfrm>
+          <a:prstGeom prst="ellipse">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:schemeClr val="accent1"/>
+          </a:solidFill>
+          <a:ln w="12700" cap="flat" cmpd="sng">
+            <a:solidFill>
+              <a:srgbClr val="E8E9EC"/>
+            </a:solidFill>
+            <a:prstDash val="solid"/>
+            <a:round/>
+            <a:headEnd type="none" w="sm" len="sm"/>
+            <a:tailEnd type="none" w="sm" len="sm"/>
+          </a:ln>
+          <a:effectLst>
+            <a:outerShdw blurRad="127000" sx="95000" sy="95000" algn="ctr" rotWithShape="0">
+              <a:srgbClr val="000000">
+                <a:alpha val="14900"/>
+              </a:srgbClr>
+            </a:outerShdw>
+          </a:effectLst>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="800">
+                <a:solidFill>
+                  <a:schemeClr val="accent6"/>
+                </a:solidFill>
+                <a:latin typeface="Raleway"/>
+                <a:ea typeface="Raleway"/>
+                <a:cs typeface="Raleway"/>
+                <a:sym typeface="Raleway"/>
+              </a:rPr>
+              <a:t>Renew</a:t>
+            </a:r>
+            <a:endParaRPr sz="800">
+              <a:solidFill>
+                <a:srgbClr val="FFFFFF"/>
+              </a:solidFill>
+              <a:latin typeface="Raleway"/>
+              <a:ea typeface="Raleway"/>
+              <a:cs typeface="Raleway"/>
+              <a:sym typeface="Raleway"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="530" name="Google Shape;530;p133"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="2399400" y="954300"/>
+            <a:ext cx="1237800" cy="215400"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:schemeClr val="accent6"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="0" rIns="91425" bIns="0" anchor="t" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1200">
+                <a:latin typeface="Helvetica Neue"/>
+                <a:ea typeface="Helvetica Neue"/>
+                <a:cs typeface="Helvetica Neue"/>
+                <a:sym typeface="Helvetica Neue"/>
+              </a:rPr>
+              <a:t>Renewal </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en" sz="1200" i="0" u="none" strike="noStrike" cap="none">
+                <a:latin typeface="Helvetica Neue"/>
+                <a:ea typeface="Helvetica Neue"/>
+                <a:cs typeface="Helvetica Neue"/>
+                <a:sym typeface="Helvetica Neue"/>
+              </a:rPr>
+              <a:t>Opportunity</a:t>
+            </a:r>
+            <a:endParaRPr sz="1200" i="0" u="none" strike="noStrike" cap="none">
+              <a:latin typeface="Helvetica Neue"/>
+              <a:ea typeface="Helvetica Neue"/>
+              <a:cs typeface="Helvetica Neue"/>
+              <a:sym typeface="Helvetica Neue"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="531" name="Google Shape;531;p133"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="167100" y="2759825"/>
+            <a:ext cx="804900" cy="292500"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:schemeClr val="accent1"/>
+          </a:solidFill>
+          <a:ln w="9525" cap="flat" cmpd="sng">
+            <a:solidFill>
+              <a:srgbClr val="000000"/>
+            </a:solidFill>
+            <a:prstDash val="solid"/>
+            <a:round/>
+            <a:headEnd type="none" w="sm" len="sm"/>
+            <a:tailEnd type="none" w="sm" len="sm"/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="ctr" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="700">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Helvetica Neue"/>
+                <a:ea typeface="Helvetica Neue"/>
+                <a:cs typeface="Helvetica Neue"/>
+                <a:sym typeface="Helvetica Neue"/>
+              </a:rPr>
+              <a:t>Typical Activities</a:t>
+            </a:r>
+            <a:endParaRPr sz="700">
+              <a:solidFill>
+                <a:srgbClr val="FFFFFF"/>
+              </a:solidFill>
+              <a:latin typeface="Helvetica Neue"/>
+              <a:ea typeface="Helvetica Neue"/>
+              <a:cs typeface="Helvetica Neue"/>
+              <a:sym typeface="Helvetica Neue"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="532" name="Google Shape;532;p133"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="167100" y="3553100"/>
+            <a:ext cx="804900" cy="292500"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:schemeClr val="accent1"/>
+          </a:solidFill>
+          <a:ln w="9525" cap="flat" cmpd="sng">
+            <a:solidFill>
+              <a:srgbClr val="000000"/>
+            </a:solidFill>
+            <a:prstDash val="solid"/>
+            <a:round/>
+            <a:headEnd type="none" w="sm" len="sm"/>
+            <a:tailEnd type="none" w="sm" len="sm"/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="ctr" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="700">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Helvetica Neue"/>
+                <a:ea typeface="Helvetica Neue"/>
+                <a:cs typeface="Helvetica Neue"/>
+                <a:sym typeface="Helvetica Neue"/>
+              </a:rPr>
+              <a:t>Key</a:t>
+            </a:r>
+            <a:endParaRPr sz="700">
+              <a:solidFill>
+                <a:srgbClr val="FFFFFF"/>
+              </a:solidFill>
+              <a:latin typeface="Helvetica Neue"/>
+              <a:ea typeface="Helvetica Neue"/>
+              <a:cs typeface="Helvetica Neue"/>
+              <a:sym typeface="Helvetica Neue"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="700">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Helvetica Neue"/>
+                <a:ea typeface="Helvetica Neue"/>
+                <a:cs typeface="Helvetica Neue"/>
+                <a:sym typeface="Helvetica Neue"/>
+              </a:rPr>
+              <a:t>Deliverables</a:t>
+            </a:r>
+            <a:endParaRPr sz="700">
+              <a:solidFill>
+                <a:srgbClr val="FFFFFF"/>
+              </a:solidFill>
+              <a:latin typeface="Helvetica Neue"/>
+              <a:ea typeface="Helvetica Neue"/>
+              <a:cs typeface="Helvetica Neue"/>
+              <a:sym typeface="Helvetica Neue"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="533" name="Google Shape;533;p133"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="167100" y="4193975"/>
+            <a:ext cx="804900" cy="252900"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:schemeClr val="accent1"/>
+          </a:solidFill>
+          <a:ln w="9525" cap="flat" cmpd="sng">
+            <a:solidFill>
+              <a:srgbClr val="000000"/>
+            </a:solidFill>
+            <a:prstDash val="solid"/>
+            <a:round/>
+            <a:headEnd type="none" w="sm" len="sm"/>
+            <a:tailEnd type="none" w="sm" len="sm"/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="ctr" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:endParaRPr sz="700">
+              <a:solidFill>
+                <a:srgbClr val="FFFFFF"/>
+              </a:solidFill>
+              <a:latin typeface="Helvetica Neue"/>
+              <a:ea typeface="Helvetica Neue"/>
+              <a:cs typeface="Helvetica Neue"/>
+              <a:sym typeface="Helvetica Neue"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="ctr" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="700">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Helvetica Neue"/>
+                <a:ea typeface="Helvetica Neue"/>
+                <a:cs typeface="Helvetica Neue"/>
+                <a:sym typeface="Helvetica Neue"/>
+              </a:rPr>
+              <a:t>Outcomes</a:t>
+            </a:r>
+            <a:endParaRPr sz="700">
+              <a:solidFill>
+                <a:srgbClr val="FFFFFF"/>
+              </a:solidFill>
+              <a:latin typeface="Helvetica Neue"/>
+              <a:ea typeface="Helvetica Neue"/>
+              <a:cs typeface="Helvetica Neue"/>
+              <a:sym typeface="Helvetica Neue"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:endParaRPr sz="700">
+              <a:solidFill>
+                <a:srgbClr val="FFFFFF"/>
+              </a:solidFill>
+              <a:latin typeface="Helvetica Neue"/>
+              <a:ea typeface="Helvetica Neue"/>
+              <a:cs typeface="Helvetica Neue"/>
+              <a:sym typeface="Helvetica Neue"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:graphicFrame>
+        <p:nvGraphicFramePr>
+          <p:cNvPr id="534" name="Google Shape;534;p133"/>
+          <p:cNvGraphicFramePr/>
+          <p:nvPr/>
+        </p:nvGraphicFramePr>
+        <p:xfrm>
+          <a:off x="971975" y="2422100"/>
+          <a:ext cx="3000000" cy="3000000"/>
+        </p:xfrm>
+        <a:graphic>
+          <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+            <a:tbl>
+              <a:tblPr>
+                <a:noFill/>
+                <a:tableStyleId>{4E223B54-F7AB-44D8-B568-2D06C1BD706B}</a:tableStyleId>
+              </a:tblPr>
+              <a:tblGrid>
+                <a:gridCol w="1407000">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20000"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1407000">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20001"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1407000">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20002"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+              </a:tblGrid>
+              <a:tr h="914375">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="114300" lvl="0" indent="-88900" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buSzPts val="600"/>
+                        <a:buFont typeface="Raleway"/>
+                        <a:buChar char="&#9679;"/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Implementation Workshop </a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="600" b="1">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>(E,E,R)</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600" b="1">
+                        <a:highlight>
+                          <a:srgbClr val="FFD966"/>
+                        </a:highlight>
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                      <a:pPr marL="114300" lvl="0" indent="-88900" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buSzPts val="600"/>
+                        <a:buFont typeface="Raleway"/>
+                        <a:buChar char="&#9679;"/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Production Readiness Assessment </a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="600" b="1">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>(E,E,R)</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600" b="1">
+                        <a:highlight>
+                          <a:srgbClr val="FFD966"/>
+                        </a:highlight>
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                      <a:pPr marL="114300" lvl="0" indent="-88900" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buSzPts val="600"/>
+                        <a:buFont typeface="Raleway"/>
+                        <a:buChar char="&#9679;"/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Solution Architecture Design </a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="600" b="1">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>(E,E,R)</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600">
+                        <a:highlight>
+                          <a:srgbClr val="FFD966"/>
+                        </a:highlight>
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="91425" marB="91425"/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="114300" lvl="0" indent="-88900" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buSzPts val="600"/>
+                        <a:buFont typeface="Raleway"/>
+                        <a:buChar char="&#9679;"/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Adoption Workshop </a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="600" b="1">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>(E,E,R)</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600">
+                        <a:highlight>
+                          <a:srgbClr val="FFD966"/>
+                        </a:highlight>
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="91425" marB="91425">
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="114300" lvl="0" indent="-88900" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buSzPts val="600"/>
+                        <a:buFont typeface="Raleway"/>
+                        <a:buChar char="&#9679;"/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Maturity Assessment </a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="600" b="1">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>(E,E,R)</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600">
+                        <a:highlight>
+                          <a:srgbClr val="FFD966"/>
+                        </a:highlight>
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                      <a:pPr marL="114300" lvl="0" indent="-88900" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buSzPts val="600"/>
+                        <a:buFont typeface="Raleway"/>
+                        <a:buChar char="&#9679;"/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:highlight>
+                            <a:srgbClr val="FFFF00"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Health Check </a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="600" b="1">
+                          <a:highlight>
+                            <a:srgbClr val="FFFF00"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>(E,E,R)</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600">
+                        <a:highlight>
+                          <a:srgbClr val="FFFF00"/>
+                        </a:highlight>
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                      <a:pPr marL="114300" lvl="0" indent="-88900" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buSzPts val="600"/>
+                        <a:buFont typeface="Raleway"/>
+                        <a:buChar char="&#9679;"/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Support Escalations</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600">
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                      <a:pPr marL="114300" lvl="0" indent="-88900" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buSzPts val="600"/>
+                        <a:buFont typeface="Raleway"/>
+                        <a:buChar char="&#9679;"/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Customer QBRs</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600">
+                        <a:highlight>
+                          <a:srgbClr val="00FF00"/>
+                        </a:highlight>
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="91425" marB="91425">
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10000"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="655300">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="114300" lvl="0" indent="-88900" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buSzPts val="600"/>
+                        <a:buFont typeface="Raleway"/>
+                        <a:buChar char="&#9679;"/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Customer QBR update deck (EER)</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600">
+                        <a:highlight>
+                          <a:srgbClr val="FFD966"/>
+                        </a:highlight>
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="91425" marB="91425">
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="114300" lvl="0" indent="-88900" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buSzPts val="600"/>
+                        <a:buFont typeface="Raleway"/>
+                        <a:buChar char="&#9679;"/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Customer QBR update deck (EER)</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600">
+                        <a:highlight>
+                          <a:srgbClr val="FFD966"/>
+                        </a:highlight>
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="91425" marB="91425">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="114300" lvl="0" indent="-88900" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buSzPts val="600"/>
+                        <a:buFont typeface="Raleway"/>
+                        <a:buChar char="&#9679;"/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:highlight>
+                            <a:srgbClr val="FFD966"/>
+                          </a:highlight>
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Customer QBR update deck (EER)</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600">
+                        <a:highlight>
+                          <a:srgbClr val="FFD966"/>
+                        </a:highlight>
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="91425" marB="91425">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10001"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="482800">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Successful onboarding</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600">
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="91425" marB="91425">
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Adoption according to plan</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600">
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="91425" marB="91425">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="600">
+                          <a:latin typeface="Raleway"/>
+                          <a:ea typeface="Raleway"/>
+                          <a:cs typeface="Raleway"/>
+                          <a:sym typeface="Raleway"/>
+                        </a:rPr>
+                        <a:t>Renewal, Expansion, Extension</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="600">
+                        <a:latin typeface="Raleway"/>
+                        <a:ea typeface="Raleway"/>
+                        <a:cs typeface="Raleway"/>
+                        <a:sym typeface="Raleway"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91425" marR="91425" marT="91425" marB="91425">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="9E9E9E"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10002"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+            </a:tbl>
+          </a:graphicData>
+        </a:graphic>
+      </p:graphicFrame>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="535" name="Google Shape;535;p133"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="0" y="1079100"/>
+            <a:ext cx="965400" cy="874200"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
+            <a:spAutoFit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="115000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="800" u="sng">
+                <a:latin typeface="Helvetica Neue"/>
+                <a:ea typeface="Helvetica Neue"/>
+                <a:cs typeface="Helvetica Neue"/>
+                <a:sym typeface="Helvetica Neue"/>
+              </a:rPr>
+              <a:t>Lead function</a:t>
+            </a:r>
+            <a:endParaRPr sz="800" u="sng">
+              <a:latin typeface="Helvetica Neue"/>
+              <a:ea typeface="Helvetica Neue"/>
+              <a:cs typeface="Helvetica Neue"/>
+              <a:sym typeface="Helvetica Neue"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="114300" lvl="0" indent="-107950" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="115000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buSzPts val="800"/>
+              <a:buFont typeface="Helvetica Neue"/>
+              <a:buChar char="&#9679;"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="800">
+                <a:highlight>
+                  <a:srgbClr val="FFFF00"/>
+                </a:highlight>
+                <a:latin typeface="Helvetica Neue"/>
+                <a:ea typeface="Helvetica Neue"/>
+                <a:cs typeface="Helvetica Neue"/>
+                <a:sym typeface="Helvetica Neue"/>
+              </a:rPr>
+              <a:t>SE</a:t>
+            </a:r>
+            <a:endParaRPr sz="800">
+              <a:highlight>
+                <a:srgbClr val="FFFF00"/>
+              </a:highlight>
+              <a:latin typeface="Helvetica Neue"/>
+              <a:ea typeface="Helvetica Neue"/>
+              <a:cs typeface="Helvetica Neue"/>
+              <a:sym typeface="Helvetica Neue"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="114300" lvl="0" indent="-107950" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="115000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buSzPts val="800"/>
+              <a:buFont typeface="Helvetica Neue"/>
+              <a:buChar char="&#9679;"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="800">
+                <a:highlight>
+                  <a:srgbClr val="00FFFF"/>
+                </a:highlight>
+                <a:latin typeface="Helvetica Neue"/>
+                <a:ea typeface="Helvetica Neue"/>
+                <a:cs typeface="Helvetica Neue"/>
+                <a:sym typeface="Helvetica Neue"/>
+              </a:rPr>
+              <a:t>EAM</a:t>
+            </a:r>
+            <a:endParaRPr sz="800">
+              <a:highlight>
+                <a:srgbClr val="00FFFF"/>
+              </a:highlight>
+              <a:latin typeface="Helvetica Neue"/>
+              <a:ea typeface="Helvetica Neue"/>
+              <a:cs typeface="Helvetica Neue"/>
+              <a:sym typeface="Helvetica Neue"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="114300" lvl="0" indent="-107950" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="115000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buSzPts val="800"/>
+              <a:buFont typeface="Helvetica Neue"/>
+              <a:buChar char="&#9679;"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="800">
+                <a:highlight>
+                  <a:srgbClr val="FFD966"/>
+                </a:highlight>
+                <a:latin typeface="Helvetica Neue"/>
+                <a:ea typeface="Helvetica Neue"/>
+                <a:cs typeface="Helvetica Neue"/>
+                <a:sym typeface="Helvetica Neue"/>
+              </a:rPr>
+              <a:t>SA</a:t>
+            </a:r>
+            <a:endParaRPr sz="800">
+              <a:highlight>
+                <a:srgbClr val="FFD966"/>
+              </a:highlight>
+              <a:latin typeface="Helvetica Neue"/>
+              <a:ea typeface="Helvetica Neue"/>
+              <a:cs typeface="Helvetica Neue"/>
+              <a:sym typeface="Helvetica Neue"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="114300" lvl="0" indent="-107950" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="115000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buSzPts val="800"/>
+              <a:buFont typeface="Helvetica Neue"/>
+              <a:buChar char="&#9679;"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="800">
+                <a:highlight>
+                  <a:srgbClr val="00FF00"/>
+                </a:highlight>
+                <a:latin typeface="Helvetica Neue"/>
+                <a:ea typeface="Helvetica Neue"/>
+                <a:cs typeface="Helvetica Neue"/>
+                <a:sym typeface="Helvetica Neue"/>
+              </a:rPr>
+              <a:t>Other</a:t>
+            </a:r>
+            <a:endParaRPr sz="800">
+              <a:highlight>
+                <a:srgbClr val="00FF00"/>
+              </a:highlight>
+              <a:latin typeface="Helvetica Neue"/>
+              <a:ea typeface="Helvetica Neue"/>
+              <a:cs typeface="Helvetica Neue"/>
+              <a:sym typeface="Helvetica Neue"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+  <p:transition spd="med">
+    <p:fade thruBlk="1"/>
+  </p:transition>
+</p:sld>

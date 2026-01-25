@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ascii"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="https://hashicorp.atlassian.net/wiki/spaces/SE/pages/2149253272/Champion+s+Decks" TargetMode="External"/>
+  <Relationship Id="rId7" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="https://docs.google.com/presentation/u/0/d/1CmuTlRSq0ocPtB0c_1DVE4gk5u1cKbb_QqND4mKc98c/edit" TargetMode="External"/>
+  <Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide" Target="../notesSlides/notesSlide6.xml"/>
+  <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout" Target="../slideLayouts/slideLayout13.xml"/>
+  <Relationship Id="rId6" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="https://hashicorp.app.workramp.com/g/WUAFMu7gHQ8QvC14bvVMD1ppHN2uA1Xg" TargetMode="External"/>
+  <Relationship Id="rId5" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="https://hashicorp.highspot.com/items/60526eecc714332d4b63d70d?lfrm=srp.1" TargetMode="External"/>
+  <Relationship Id="rId4" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="https://hashicorp.highspot.com/items/60526d903f65f67d22d7c76f?lfrm=srp.0#6" TargetMode="External"/>
+</Relationships>

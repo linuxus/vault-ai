@@ -1,0 +1,33 @@
+# Vault Enterprise HA configuration with Raft storage
+global:
+  namespace: vault-ent
+
+server:
+  image:
+    repository: hashicorp/vault-enterprise
+    tag: 1.20.4-ent
+  enterpriseLicense:
+    secretName: vault-ent-license
+    secretKey: vault.hclic
+  ha:
+    enabled: true
+    replicas: 3
+    raft:
+      enabled: true
+      setNodeId: true
+      config: |
+        ui = true
+        listener "tcp" {
+          address     = "0.0.0.0:8200"
+          tls_disable = 1
+        }
+        storage "raft" {
+          path = "/vault/data"
+        }
+        service_registration "kubernetes" {}
+
+        api_addr     = "http://vault.vault-ent.svc.cluster.local:8200"
+        cluster_addr = "http://$(HOSTNAME).vault-internal:8201"
+
+injector:
+  enabled: true

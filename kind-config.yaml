@@ -1,0 +1,14 @@
+# Kind cluster with HA control-plane and NodePort exposure
+kind: Cluster
+apiVersion: kind.x-k8s.io/v1alpha4
+nodes:
+- role: control-plane
+  extraPortMappings:
+  - containerPort: 30080
+    hostPort: 30080
+    protocol: TCP
+- role: control-plane
+- role: control-plane
+- role: worker
+- role: worker
+- role: worker

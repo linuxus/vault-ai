@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="ascii"?>
+<p:sldLayout xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" matchingName="13_1 Column - Light">
+  <p:cSld name="13_1 Column - Light">
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name="Shape 299"/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="300" name="Google Shape;300;p88"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm flipH="1">
+            <a:off x="390588" y="0"/>
+            <a:ext cx="50100" cy="5143500"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="F2F2F2"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="ctr" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1013"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:endParaRPr sz="1013" b="0" i="0" u="none" strike="noStrike" cap="none">
+              <a:solidFill>
+                <a:schemeClr val="lt1"/>
+              </a:solidFill>
+              <a:latin typeface="Verdana"/>
+              <a:ea typeface="Verdana"/>
+              <a:cs typeface="Verdana"/>
+              <a:sym typeface="Verdana"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="301" name="Google Shape;301;p88"/>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="title"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="544451" y="293840"/>
+            <a:ext cx="8154900" cy="827700"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marR="0" lvl="0" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="750"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="2800"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="2800" b="1" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Tahoma"/>
+                <a:ea typeface="Tahoma"/>
+                <a:cs typeface="Tahoma"/>
+                <a:sym typeface="Tahoma"/>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr marR="0" lvl="1" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:defRPr>
+            </a:lvl2pPr>
+            <a:lvl3pPr marR="0" lvl="2" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:defRPr>
+            </a:lvl3pPr>
+            <a:lvl4pPr marR="0" lvl="3" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:defRPr>
+            </a:lvl4pPr>
+            <a:lvl5pPr marR="0" lvl="4" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:defRPr>
+            </a:lvl5pPr>
+            <a:lvl6pPr marR="0" lvl="5" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:defRPr>
+            </a:lvl6pPr>
+            <a:lvl7pPr marR="0" lvl="6" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:defRPr>
+            </a:lvl7pPr>
+            <a:lvl8pPr marR="0" lvl="7" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:defRPr>
+            </a:lvl8pPr>
+            <a:lvl9pPr marR="0" lvl="8" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:defRPr>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="302" name="Google Shape;302;p88"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm flipH="1">
+            <a:off x="390588" y="293841"/>
+            <a:ext cx="50100" cy="669300"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:schemeClr val="dk1"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="ctr" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1013"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:endParaRPr sz="1013" b="0" i="0" u="none" strike="noStrike" cap="none">
+              <a:solidFill>
+                <a:schemeClr val="lt1"/>
+              </a:solidFill>
+              <a:latin typeface="Verdana"/>
+              <a:ea typeface="Verdana"/>
+              <a:cs typeface="Verdana"/>
+              <a:sym typeface="Verdana"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="303" name="Google Shape;303;p88"/>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="1"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="556260" y="1246188"/>
+            <a:ext cx="2513400" cy="3542100"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="457200" marR="0" lvl="0" indent="-330200" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1600"/>
+              <a:buFont typeface="Noto Sans Symbols"/>
+              <a:buChar char="&#9642;"/>
+              <a:defRPr sz="1600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr marL="914400" marR="0" lvl="1" indent="-317500" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="300"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8211;"/>
+              <a:defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl2pPr>
+            <a:lvl3pPr marL="1371600" marR="0" lvl="2" indent="-304800" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="300"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1200"/>
+              <a:buFont typeface="Noto Sans Symbols"/>
+              <a:buChar char="&#9642;"/>
+              <a:defRPr sz="1200" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl3pPr>
+            <a:lvl4pPr marL="1828800" marR="0" lvl="3" indent="-304800" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="300"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1200"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8211;"/>
+              <a:defRPr sz="1200" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl4pPr>
+            <a:lvl5pPr marL="2286000" marR="0" lvl="4" indent="-304800" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="300"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1200"/>
+              <a:buFont typeface="Noto Sans Symbols"/>
+              <a:buChar char="&#9642;"/>
+              <a:defRPr sz="1200" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl5pPr>
+            <a:lvl6pPr marL="2743200" marR="0" lvl="5" indent="-228600" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="500"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="788"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="788" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl6pPr>
+            <a:lvl7pPr marL="3200400" marR="0" lvl="6" indent="-342900" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="500"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="1800"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8226;"/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl7pPr>
+            <a:lvl8pPr marL="3657600" marR="0" lvl="7" indent="-342900" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="500"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="1800"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8226;"/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl8pPr>
+            <a:lvl9pPr marL="4114800" marR="0" lvl="8" indent="-342900" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="500"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="1800"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8226;"/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="304" name="Google Shape;304;p88"/>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="2"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="3408718" y="1246188"/>
+            <a:ext cx="2513400" cy="3542100"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="457200" marR="0" lvl="0" indent="-330200" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1600"/>
+              <a:buFont typeface="Noto Sans Symbols"/>
+              <a:buChar char="&#9642;"/>
+              <a:defRPr sz="1600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr marL="914400" marR="0" lvl="1" indent="-317500" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="300"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8211;"/>
+              <a:defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl2pPr>
+            <a:lvl3pPr marL="1371600" marR="0" lvl="2" indent="-304800" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="300"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1200"/>
+              <a:buFont typeface="Noto Sans Symbols"/>
+              <a:buChar char="&#9642;"/>
+              <a:defRPr sz="1200" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl3pPr>
+            <a:lvl4pPr marL="1828800" marR="0" lvl="3" indent="-304800" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="300"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1200"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8211;"/>
+              <a:defRPr sz="1200" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl4pPr>
+            <a:lvl5pPr marL="2286000" marR="0" lvl="4" indent="-304800" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="300"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1200"/>
+              <a:buFont typeface="Noto Sans Symbols"/>
+              <a:buChar char="&#9642;"/>
+              <a:defRPr sz="1200" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl5pPr>
+            <a:lvl6pPr marL="2743200" marR="0" lvl="5" indent="-228600" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="500"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="788"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="788" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl6pPr>
+            <a:lvl7pPr marL="3200400" marR="0" lvl="6" indent="-342900" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="500"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="1800"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8226;"/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl7pPr>
+            <a:lvl8pPr marL="3657600" marR="0" lvl="7" indent="-342900" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="500"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="1800"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8226;"/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl8pPr>
+            <a:lvl9pPr marL="4114800" marR="0" lvl="8" indent="-342900" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="500"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="1800"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8226;"/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="305" name="Google Shape;305;p88"/>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="3"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="6254041" y="1246188"/>
+            <a:ext cx="2513400" cy="3542100"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="457200" marR="0" lvl="0" indent="-330200" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1600"/>
+              <a:buFont typeface="Noto Sans Symbols"/>
+              <a:buChar char="&#9642;"/>
+              <a:defRPr sz="1600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr marL="914400" marR="0" lvl="1" indent="-317500" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="300"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8211;"/>
+              <a:defRPr sz="1400" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl2pPr>
+            <a:lvl3pPr marL="1371600" marR="0" lvl="2" indent="-304800" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="300"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1200"/>
+              <a:buFont typeface="Noto Sans Symbols"/>
+              <a:buChar char="&#9642;"/>
+              <a:defRPr sz="1200" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl3pPr>
+            <a:lvl4pPr marL="1828800" marR="0" lvl="3" indent="-304800" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="300"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1200"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8211;"/>
+              <a:defRPr sz="1200" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl4pPr>
+            <a:lvl5pPr marL="2286000" marR="0" lvl="4" indent="-304800" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="300"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="accent1"/>
+              </a:buClr>
+              <a:buSzPts val="1200"/>
+              <a:buFont typeface="Noto Sans Symbols"/>
+              <a:buChar char="&#9642;"/>
+              <a:defRPr sz="1200" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk2"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl5pPr>
+            <a:lvl6pPr marL="2743200" marR="0" lvl="5" indent="-228600" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="500"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="788"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="788" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl6pPr>
+            <a:lvl7pPr marL="3200400" marR="0" lvl="6" indent="-342900" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="500"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="1800"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8226;"/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl7pPr>
+            <a:lvl8pPr marL="3657600" marR="0" lvl="7" indent="-342900" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="500"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="1800"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8226;"/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl8pPr>
+            <a:lvl9pPr marL="4114800" marR="0" lvl="8" indent="-342900" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="90000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="500"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:schemeClr val="dk1"/>
+              </a:buClr>
+              <a:buSzPts val="1800"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8226;"/>
+              <a:defRPr sz="1800" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:schemeClr val="dk1"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="306" name="Google Shape;306;p88"/>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="sldNum" idx="12"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="8701536" y="4931052"/>
+            <a:ext cx="342900" cy="184800"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="b" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle>
+            <a:lvl1pPr marL="0" marR="0" lvl="0" indent="0" algn="r" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="600"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="AEABAB"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr marL="0" marR="0" lvl="1" indent="0" algn="r" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="600"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="AEABAB"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl2pPr>
+            <a:lvl3pPr marL="0" marR="0" lvl="2" indent="0" algn="r" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="600"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="AEABAB"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl3pPr>
+            <a:lvl4pPr marL="0" marR="0" lvl="3" indent="0" algn="r" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="600"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="AEABAB"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl4pPr>
+            <a:lvl5pPr marL="0" marR="0" lvl="4" indent="0" algn="r" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="600"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="AEABAB"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl5pPr>
+            <a:lvl6pPr marL="0" marR="0" lvl="5" indent="0" algn="r" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="600"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="AEABAB"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl6pPr>
+            <a:lvl7pPr marL="0" marR="0" lvl="6" indent="0" algn="r" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="600"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="AEABAB"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl7pPr>
+            <a:lvl8pPr marL="0" marR="0" lvl="7" indent="0" algn="r" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="600"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="AEABAB"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl8pPr>
+            <a:lvl9pPr marL="0" marR="0" lvl="8" indent="0" algn="r" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="600"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:defRPr sz="600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="AEABAB"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:defRPr>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="r" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:fld id="{00000000-1234-1234-1234-123412341234}" type="slidenum">
+              <a:rPr lang="en"/>
+              <a:t>&#8249;#&#8250;</a:t>
+            </a:fld>
+            <a:endParaRPr/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="307" name="Google Shape;307;p88"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="7291998" y="4927982"/>
+            <a:ext cx="1310100" cy="184800"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="45700" rIns="91425" bIns="45700" anchor="t" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="600"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="600" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="AEABAB"/>
+                </a:solidFill>
+                <a:latin typeface="Verdana"/>
+                <a:ea typeface="Verdana"/>
+                <a:cs typeface="Verdana"/>
+                <a:sym typeface="Verdana"/>
+              </a:rPr>
+              <a:t>Copyright &#169; 2020 HashiCorp</a:t>
+            </a:r>
+            <a:endParaRPr sz="600" b="0" i="0" u="none" strike="noStrike" cap="none">
+              <a:solidFill>
+                <a:srgbClr val="AEABAB"/>
+              </a:solidFill>
+              <a:latin typeface="Verdana"/>
+              <a:ea typeface="Verdana"/>
+              <a:cs typeface="Verdana"/>
+              <a:sym typeface="Verdana"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:sldLayout>

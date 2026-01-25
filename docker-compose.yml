@@ -1,0 +1,85 @@
+# Vault AI - Docker Compose Configuration
+# Production deployment with web UI and MCP proxy
+
+version: '3.8'
+
+services:
+  # ==========================================================================
+  # Vault AI Web UI
+  # ==========================================================================
+  vault-ai-web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        VITE_APP_TITLE: ${VITE_APP_TITLE:-Vault AI}
+        VITE_VAULT_ADDR: ${VITE_VAULT_ADDR:-}
+    container_name: vault-ai-web
+    ports:
+      - "3000:80"
+    environment:
+      - VAULT_ADDR=${VAULT_ADDR}
+    depends_on:
+      mcp-proxy:
+        condition: service_healthy
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:80/health"]
+      interval: 30s
+      timeout: 3s
+      start_period: 5s
+      retries: 3
+    networks:
+      - vault-ai-network
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  # ==========================================================================
+  # MCP Proxy Server
+  # ==========================================================================
+  mcp-proxy:
+    build:
+      context: ./mcp-proxy
+      dockerfile: Dockerfile
+    container_name: vault-ai-mcp-proxy
+    environment:
+      - VAULT_ADDR=${VAULT_ADDR}
+      - VAULT_SKIP_VERIFY=${VAULT_SKIP_VERIFY:-false}
+      - VAULT_NAMESPACE=${VAULT_NAMESPACE:-}
+      - MCP_LOG_LEVEL=${MCP_LOG_LEVEL:-info}
+      - FRONTEND_ORIGIN=${FRONTEND_ORIGIN:-http://localhost:3000}
+      - PORT=3001
+    expose:
+      - "3001"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3001/health"]
+      interval: 30s
+      timeout: 3s
+      start_period: 10s
+      retries: 3
+    networks:
+      - vault-ai-network
+    security_opt:
+      - no-new-privileges:true
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop:
+      - ALL
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+# =============================================================================
+# Networks
+# =============================================================================
+networks:
+  vault-ai-network:
+    driver: bridge
+    name: vault-ai-network

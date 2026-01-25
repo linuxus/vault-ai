@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: vault-ai
+  labels:
+    app.kubernetes.io/name: vault-ai
+    app.kubernetes.io/part-of: vault-ai

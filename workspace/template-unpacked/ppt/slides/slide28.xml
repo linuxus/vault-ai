@@ -1,0 +1,4498 @@
+<?xml version="1.0" encoding="ascii"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name="Shape 919"/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:graphicFrame>
+        <p:nvGraphicFramePr>
+          <p:cNvPr id="920" name="Google Shape;920;p151"/>
+          <p:cNvGraphicFramePr/>
+          <p:nvPr/>
+        </p:nvGraphicFramePr>
+        <p:xfrm>
+          <a:off x="450950" y="3192760"/>
+          <a:ext cx="3000000" cy="3000000"/>
+        </p:xfrm>
+        <a:graphic>
+          <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+            <a:tbl>
+              <a:tblPr>
+                <a:noFill/>
+                <a:tableStyleId>{299768DA-C3B5-4A11-9981-CC50F2502BB2}</a:tableStyleId>
+              </a:tblPr>
+              <a:tblGrid>
+                <a:gridCol w="1336775">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20000"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1006175">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20001"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="867900">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20002"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="779450">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20003"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="997600">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20004"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="997600">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20005"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="997600">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20006"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="1177100">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20007"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+              </a:tblGrid>
+              <a:tr h="237500">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Solution</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Support Entitlement</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>License Entitlement</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Quantity</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Total List Price / Per Year</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>3 Year Total List Price</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>New Customer Discount</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Year 1</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Total PO Must be Received by 6-1-20</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10000"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="0">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>TFE Package</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>    - Self Service</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>    - Gov/Policy</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800"/>
+                        <a:t>Gold</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>100 Workspaces</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>1</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="800"/>
+                        <a:t>125,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="800"/>
+                        <a:t>375,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:solidFill>
+                            <a:srgbClr val="C00000"/>
+                          </a:solidFill>
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="800">
+                          <a:solidFill>
+                            <a:srgbClr val="C00000"/>
+                          </a:solidFill>
+                        </a:rPr>
+                        <a:t>25,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:solidFill>
+                          <a:srgbClr val="C00000"/>
+                        </a:solidFill>
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="800"/>
+                        <a:t>100,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10001"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="0">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Remote Professional Services </a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>40 hours</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>1</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$15,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:solidFill>
+                          <a:srgbClr val="FF0000"/>
+                        </a:solidFill>
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:solidFill>
+                            <a:srgbClr val="C00000"/>
+                          </a:solidFill>
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$1,500</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:solidFill>
+                          <a:srgbClr val="C00000"/>
+                        </a:solidFill>
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$13,500</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10002"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="194575">
+                <a:tc gridSpan="7">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Total for Terraform</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1"/>
+                        <a:t>113</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>,500</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="45700" marR="45700" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10003"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+            </a:tbl>
+          </a:graphicData>
+        </a:graphic>
+      </p:graphicFrame>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="921" name="Google Shape;921;p151"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="450950" y="2929075"/>
+            <a:ext cx="2438400" cy="215400"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1400" b="1" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:rPr>
+              <a:t>Pricing</a:t>
+            </a:r>
+            <a:endParaRPr sz="1400" b="1" i="0" u="none" strike="noStrike" cap="none">
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+              <a:latin typeface="Arial"/>
+              <a:ea typeface="Arial"/>
+              <a:cs typeface="Arial"/>
+              <a:sym typeface="Arial"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:graphicFrame>
+        <p:nvGraphicFramePr>
+          <p:cNvPr id="922" name="Google Shape;922;p151"/>
+          <p:cNvGraphicFramePr/>
+          <p:nvPr/>
+        </p:nvGraphicFramePr>
+        <p:xfrm>
+          <a:off x="457200" y="1474865"/>
+          <a:ext cx="3000000" cy="3000000"/>
+        </p:xfrm>
+        <a:graphic>
+          <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+            <a:tbl>
+              <a:tblPr>
+                <a:noFill/>
+                <a:tableStyleId>{299768DA-C3B5-4A11-9981-CC50F2502BB2}</a:tableStyleId>
+              </a:tblPr>
+              <a:tblGrid>
+                <a:gridCol w="1490200">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20000"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="952250">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20001"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="904750">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20002"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="902575">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20003"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+                <a:gridCol w="929575">
+                  <a:extLst>
+                    <a:ext uri="{9D8B030D-6E8A-4147-A177-3AD203B41FA5}">
+                      <a16:colId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="20004"/>
+                    </a:ext>
+                  </a:extLst>
+                </a:gridCol>
+              </a:tblGrid>
+              <a:tr h="129350">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Solution</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Year 1 TCO</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Year 2 TCO</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Year 3 TCO</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Totals</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F2F2F2"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10000"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="133275">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:highlight>
+                            <a:srgbClr val="FFFFFF"/>
+                          </a:highlight>
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Internal Solution/ Do nothing</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$696,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$696,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$696,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$2,088,000</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="1000" b="1" u="none" strike="noStrike" cap="none">
+                          <a:solidFill>
+                            <a:srgbClr val="C00000"/>
+                          </a:solidFill>
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>*</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="1000" b="1" u="none" strike="noStrike" cap="none">
+                        <a:solidFill>
+                          <a:srgbClr val="C00000"/>
+                        </a:solidFill>
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFF00">
+                        <a:alpha val="49800"/>
+                      </a:srgbClr>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10001"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="133275">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>HashiCorp Terraform</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="800"/>
+                        <a:t>116</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>,500</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="800"/>
+                        <a:t>128,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="800"/>
+                        <a:t>128,000</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFFFF"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1"/>
+                        <a:t>372,500</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFF00">
+                        <a:alpha val="49800"/>
+                      </a:srgbClr>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10002"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+              <a:tr h="133275">
+                <a:tc gridSpan="4">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>Savings</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFF00">
+                        <a:alpha val="49800"/>
+                      </a:srgbClr>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc hMerge="1">
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:endParaRPr lang="en-US"/>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr/>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" rtl="0">
+                        <a:lnSpc>
+                          <a:spcPct val="115000"/>
+                        </a:lnSpc>
+                        <a:spcBef>
+                          <a:spcPts val="0"/>
+                        </a:spcBef>
+                        <a:spcAft>
+                          <a:spcPts val="0"/>
+                        </a:spcAft>
+                        <a:buClr>
+                          <a:srgbClr val="000000"/>
+                        </a:buClr>
+                        <a:buSzPts val="800"/>
+                        <a:buFont typeface="Arial"/>
+                        <a:buNone/>
+                      </a:pPr>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1" u="none" strike="noStrike" cap="none">
+                          <a:latin typeface="Arial"/>
+                          <a:ea typeface="Arial"/>
+                          <a:cs typeface="Arial"/>
+                          <a:sym typeface="Arial"/>
+                        </a:rPr>
+                        <a:t>$1,</a:t>
+                      </a:r>
+                      <a:r>
+                        <a:rPr lang="en" sz="800" b="1"/>
+                        <a:t>715,500</a:t>
+                      </a:r>
+                      <a:endParaRPr sz="800" b="1" u="none" strike="noStrike" cap="none">
+                        <a:latin typeface="Arial"/>
+                        <a:ea typeface="Arial"/>
+                        <a:cs typeface="Arial"/>
+                        <a:sym typeface="Arial"/>
+                      </a:endParaRPr>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91450" marR="91450" marT="45700" marB="45700" anchor="ctr">
+                    <a:lnL w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnL>
+                    <a:lnR w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnR>
+                    <a:lnT w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnT>
+                    <a:lnB w="9525" cap="flat" cmpd="sng">
+                      <a:solidFill>
+                        <a:srgbClr val="BDBFC6"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                      <a:round/>
+                      <a:headEnd type="none" w="sm" len="sm"/>
+                      <a:tailEnd type="none" w="sm" len="sm"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="FFFF00">
+                        <a:alpha val="49800"/>
+                      </a:srgbClr>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:extLst>
+                  <a:ext uri="{0D108BD9-81ED-4DB2-BD59-A6C34878D82A}">
+                    <a16:rowId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" val="10003"/>
+                  </a:ext>
+                </a:extLst>
+              </a:tr>
+            </a:tbl>
+          </a:graphicData>
+        </a:graphic>
+      </p:graphicFrame>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="923" name="Google Shape;923;p151"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="457200" y="1173137"/>
+            <a:ext cx="3936900" cy="215400"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1400"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1400" b="1" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:rPr>
+              <a:t>Delivery Pipeline Cost Options</a:t>
+            </a:r>
+            <a:endParaRPr sz="1400" b="1" i="0" u="none" strike="noStrike" cap="none">
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+              <a:latin typeface="Arial"/>
+              <a:ea typeface="Arial"/>
+              <a:cs typeface="Arial"/>
+              <a:sym typeface="Arial"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="924" name="Google Shape;924;p151"/>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="1"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="5908158" y="1474865"/>
+            <a:ext cx="2353200" cy="1371600"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="t" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buSzPts val="1400"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1200" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:rPr>
+              <a:t>Assumptions</a:t>
+            </a:r>
+            <a:endParaRPr sz="1200" b="1">
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+              <a:latin typeface="Arial"/>
+              <a:ea typeface="Arial"/>
+              <a:cs typeface="Arial"/>
+              <a:sym typeface="Arial"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buSzPts val="1400"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:endParaRPr sz="800" b="1">
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+              <a:latin typeface="Arial"/>
+              <a:ea typeface="Arial"/>
+              <a:cs typeface="Arial"/>
+              <a:sym typeface="Arial"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="137160" lvl="0" indent="-137160" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="400"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1000"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8226;"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1000">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:rPr>
+              <a:t>100 Users Through Self Service</a:t>
+            </a:r>
+            <a:endParaRPr sz="1000">
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+              <a:latin typeface="Arial"/>
+              <a:ea typeface="Arial"/>
+              <a:cs typeface="Arial"/>
+              <a:sym typeface="Arial"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="137160" lvl="0" indent="-137160" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="400"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1000"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8226;"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1000">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:rPr>
+              <a:t>No services in year 2 and 3</a:t>
+            </a:r>
+            <a:endParaRPr sz="1000">
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+              <a:latin typeface="Arial"/>
+              <a:ea typeface="Arial"/>
+              <a:cs typeface="Arial"/>
+              <a:sym typeface="Arial"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr marL="137160" lvl="0" indent="-137160" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="400"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="400"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1000"/>
+              <a:buFont typeface="Arial"/>
+              <a:buChar char="&#8226;"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1000">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:rPr>
+              <a:t>HashiCorp solution includes $3k of labor cost per year for administration</a:t>
+            </a:r>
+            <a:endParaRPr sz="1000">
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+              <a:latin typeface="Arial"/>
+              <a:ea typeface="Arial"/>
+              <a:cs typeface="Arial"/>
+              <a:sym typeface="Arial"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="925" name="Google Shape;925;p151"/>
+          <p:cNvSpPr txBox="1">
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="2"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="457200" y="457200"/>
+            <a:ext cx="4439100" cy="369300"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="2900"/>
+              <a:buFont typeface="Open Sans"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="2400" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:rPr>
+              <a:t>Economics - Delivery Pipeline</a:t>
+            </a:r>
+            <a:endParaRPr sz="2400" b="1">
+              <a:latin typeface="Arial"/>
+              <a:ea typeface="Arial"/>
+              <a:cs typeface="Arial"/>
+              <a:sym typeface="Arial"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="926" name="Google Shape;926;p151"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="420225" y="2475996"/>
+            <a:ext cx="3973800" cy="153900"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr" anchorCtr="0">
+            <a:noAutofit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="1000"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="900" b="0" i="0" u="none" strike="noStrike" cap="none">
+                <a:solidFill>
+                  <a:srgbClr val="C00000"/>
+                </a:solidFill>
+                <a:latin typeface="Arial"/>
+                <a:ea typeface="Arial"/>
+                <a:cs typeface="Arial"/>
+                <a:sym typeface="Arial"/>
+              </a:rPr>
+              <a:t>* $2M in revenue at risk for &#8220;internal solution/ do nothing option&#8221;</a:t>
+            </a:r>
+            <a:endParaRPr sz="900" b="0" i="0" u="none" strike="noStrike" cap="none">
+              <a:solidFill>
+                <a:srgbClr val="C00000"/>
+              </a:solidFill>
+              <a:latin typeface="Arial"/>
+              <a:ea typeface="Arial"/>
+              <a:cs typeface="Arial"/>
+              <a:sym typeface="Arial"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="927" name="Google Shape;927;p151"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4876800" y="76200"/>
+            <a:ext cx="4194900" cy="1015800"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="FFFF00"/>
+          </a:solidFill>
+          <a:ln>
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr spcFirstLastPara="1" wrap="square" lIns="91425" tIns="91425" rIns="91425" bIns="91425" anchor="t" anchorCtr="0">
+            <a:spAutoFit/>
+          </a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" lvl="0" indent="0" algn="l" rtl="0">
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en" sz="1800" b="1" i="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF0000"/>
+                </a:solidFill>
+              </a:rPr>
+              <a:t>Summarize value and costs to determine the B in BANT, but also highlight ROI.</a:t>
+            </a:r>
+            <a:endParaRPr sz="1800" b="1" i="1">
+              <a:solidFill>
+                <a:srgbClr val="FF0000"/>
+              </a:solidFill>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:sld>

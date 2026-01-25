@@ -1,0 +1,177 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: vault-ai-nginx-config
+  namespace: vault-ai
+  labels:
+    app.kubernetes.io/name: vault-ai-web
+    app.kubernetes.io/component: web
+data:
+  nginx.conf: |
+    user nginx;
+    worker_processes auto;
+    error_log /var/log/nginx/error.log warn;
+    pid /var/run/nginx.pid;
+
+    events {
+        worker_connections 1024;
+        multi_accept on;
+    }
+
+    http {
+        include /etc/nginx/mime.types;
+        default_type application/octet-stream;
+
+        log_format main '$remote_addr - $remote_user [$time_local] "$request" '
+                        '$status $body_bytes_sent "$http_referer" '
+                        '"$http_user_agent" "$http_x_forwarded_for" '
+                        'rt=$request_time';
+
+        access_log /var/log/nginx/access.log main;
+
+        sendfile on;
+        tcp_nopush on;
+        tcp_nodelay on;
+        keepalive_timeout 65;
+        types_hash_max_size 2048;
+
+        gzip on;
+        gzip_vary on;
+        gzip_proxied any;
+        gzip_comp_level 6;
+        gzip_min_length 256;
+        gzip_types
+            application/javascript
+            application/json
+            application/xml
+            text/css
+            text/javascript
+            text/plain;
+
+        # Security headers
+        add_header X-Frame-Options "DENY" always;
+        add_header X-Content-Type-Options "nosniff" always;
+        add_header X-XSS-Protection "1; mode=block" always;
+        add_header Referrer-Policy "strict-origin-when-cross-origin" always;
+
+        server_tokens off;
+
+        # Upstream for Vault API (using vault-active service to ensure active node)
+        upstream vault_backend {
+            server vault-active.vault-ent.svc.cluster.local:8200;
+        }
+
+        # Upstream for MCP Proxy
+        upstream mcp_proxy_backend {
+            server mcp-proxy.vault-ai.svc.cluster.local:3001;
+        }
+
+        server {
+            listen 80;
+            server_name _;
+            root /usr/share/nginx/html;
+            index index.html;
+
+            # Health check endpoint
+            location /health {
+                access_log off;
+                return 200 "OK\n";
+                add_header Content-Type text/plain;
+            }
+
+            # MCP Proxy endpoint
+            location /api/mcp {
+                proxy_pass http://mcp_proxy_backend;
+                proxy_http_version 1.1;
+                proxy_set_header Upgrade $http_upgrade;
+                proxy_set_header Connection "upgrade";
+                proxy_set_header Host $host;
+                proxy_set_header X-Real-IP $remote_addr;
+                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+                proxy_set_header X-Forwarded-Proto $scheme;
+                proxy_connect_timeout 60s;
+                proxy_send_timeout 60s;
+                proxy_read_timeout 60s;
+                proxy_buffering off;
+                proxy_cache off;
+            }
+
+            # SSE endpoint for MCP
+            location /api/mcp/sse {
+                proxy_pass http://mcp_proxy_backend/sse;
+                proxy_http_version 1.1;
+                proxy_set_header Connection "";
+                proxy_set_header Cache-Control "no-cache";
+                proxy_set_header X-Accel-Buffering "no";
+                proxy_buffering off;
+                proxy_cache off;
+                chunked_transfer_encoding off;
+                proxy_read_timeout 86400s;
+            }
+
+            # Vault API proxy
+            location /v1/ {
+                proxy_pass http://vault_backend/v1/;
+                proxy_http_version 1.1;
+                proxy_set_header X-Vault-Token $http_x_vault_token;
+                proxy_set_header Host $host;
+                proxy_set_header X-Real-IP $remote_addr;
+                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+                proxy_set_header X-Forwarded-Proto $scheme;
+                proxy_connect_timeout 60s;
+                proxy_send_timeout 60s;
+                proxy_read_timeout 60s;
+            }
+
+            # Static assets
+            location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg|woff|woff2|ttf|eot)$ {
+                expires 1y;
+                add_header Cache-Control "public, immutable";
+                access_log off;
+            }
+
+            # SPA routing
+            location / {
+                try_files $uri $uri/ /index.html;
+                add_header Cache-Control "no-cache, no-store, must-revalidate";
+            }
+
+            # Deny hidden files
+            location ~ /\. {
+                deny all;
+                access_log off;
+                log_not_found off;
+            }
+
+            error_page 404 /index.html;
+            error_page 500 502 503 504 /50x.html;
+        }
+    }
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mcp-proxy-config
+  namespace: vault-ai
+  labels:
+    app.kubernetes.io/name: mcp-proxy
+    app.kubernetes.io/component: proxy
+data:
+  # Vault address using Kubernetes service DNS (vault-active for active node only)
+  VAULT_ADDR: "http://vault-active.vault-ent.svc.cluster.local:8200"
+  PORT: "3001"
+  FRONTEND_ORIGIN: "http://localhost:30080"
+  VAULT_MCP_IMAGE: "hashicorp/vault-mcp-server:latest"
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mcp-proxy-secrets
+  namespace: vault-ai
+  labels:
+    app.kubernetes.io/name: mcp-proxy
+    app.kubernetes.io/component: proxy
+type: Opaque
+stringData:
+  # Anthropic API key - will be populated by setup script
+  ANTHROPIC_API_KEY: "placeholder"

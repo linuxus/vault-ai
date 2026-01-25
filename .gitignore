@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+mcp-proxy/node_modules/
+
+# Build outputs
+dist/
+build/
+mcp-proxy/dist/
+
+# Environment files with secrets
+.env
+.env.local
+.env.*.local
+mcp-proxy/.env
+
+# Vault credentials (sensitive)
+vault-init.json
+*.hclic
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
+
+# Playwright
+playwright-report/
+test-results/
+
+# Temporary files
+*.tmp
+*.temp
