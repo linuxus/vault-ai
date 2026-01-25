@@ -1,7 +1,7 @@
 import Anthropic from '@anthropic-ai/sdk';
 import type { Response } from 'express';
 import type { ChatMessage, StreamEvent, ToolContext, AnthropicToolResult } from './types.js';
-import { getAllTools, executeTool } from './tools/vault.js';
+import { getNativeTools, executeNativeTool } from './tools/native-vault.js';
 
 const SYSTEM_PROMPT = `You are a helpful assistant for HashiCorp Vault. You help users manage secrets, PKI certificates, and Vault operations.
 
@@ -60,33 +60,32 @@ export async function processChat(
 ): Promise<void> {
   const anthropic = new Anthropic();
 
-  // Get available tools from MCP server
-  let tools: Anthropic.Tool[];
-  try {
-    const vaultTools = await getAllTools(ctx);
-    tools = vaultTools.map((tool) => ({
-      name: tool.name,
-      description: tool.description,
-      input_schema: tool.input_schema as Anthropic.Tool['input_schema'],
+  // Get available tools (native implementation)
+  const vaultTools = getNativeTools();
+  const tools: Anthropic.Tool[] = vaultTools.map((tool) => ({
+    name: tool.name,
+    description: tool.description,
+    input_schema: tool.input_schema as Anthropic.Tool['input_schema'],
+  }));
+
+  console.log(`Available tools: ${vaultTools.map((t) => t.name).join(', ')}`);
+
+  // Build messages array from history, filtering out empty messages
+  const messages: Anthropic.MessageParam[] = history
+    .filter((msg) => msg.content && msg.content.trim() !== '')
+    .map((msg) => ({
+      role: msg.role,
+      content: msg.content,
     }));
-  } catch (error) {
-    console.error('Failed to get tools:', error);
-    sendEvent(res, {
-      type: 'error',
-      error: 'Failed to connect to Vault MCP server. Make sure the vault-mcp Docker container is available.',
-    });
+
+  // Add the new user message
+  if (message && message.trim() !== '') {
+    messages.push({ role: 'user', content: message });
+  } else {
+    sendEvent(res, { type: 'error', error: 'Message cannot be empty' });
     sendEvent(res, { type: 'done' });
     return;
   }
-
-  // Build messages array from history
-  const messages: Anthropic.MessageParam[] = history.map((msg) => ({
-    role: msg.role,
-    content: msg.content,
-  }));
-
-  // Add the new user message
-  messages.push({ role: 'user', content: message });
 
   try {
     // Create initial message with streaming
@@ -158,8 +157,8 @@ export async function processChat(
           arguments: toolUse.input as Record<string, unknown>,
         });
 
-        // Execute the tool via MCP client
-        const result = await executeTool(
+        // Execute the tool using native implementation
+        const result = await executeNativeTool(
           toolUse.name,
           toolUse.input as Record<string, unknown>,
           ctx

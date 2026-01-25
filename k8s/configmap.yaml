@@ -79,9 +79,9 @@ data:
                 add_header Content-Type text/plain;
             }
 
-            # MCP Proxy endpoint
-            location /api/mcp {
-                proxy_pass http://mcp_proxy_backend;
+            # MCP Proxy endpoint - handles /mcp/* requests
+            location /mcp/ {
+                proxy_pass http://mcp_proxy_backend/mcp/;
                 proxy_http_version 1.1;
                 proxy_set_header Upgrade $http_upgrade;
                 proxy_set_header Connection "upgrade";
@@ -89,24 +89,12 @@ data:
                 proxy_set_header X-Real-IP $remote_addr;
                 proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
                 proxy_set_header X-Forwarded-Proto $scheme;
-                proxy_connect_timeout 60s;
-                proxy_send_timeout 60s;
-                proxy_read_timeout 60s;
+                proxy_set_header X-Vault-Token $http_x_vault_token;
+                proxy_connect_timeout 300s;
+                proxy_send_timeout 300s;
+                proxy_read_timeout 300s;
                 proxy_buffering off;
                 proxy_cache off;
-            }
-
-            # SSE endpoint for MCP
-            location /api/mcp/sse {
-                proxy_pass http://mcp_proxy_backend/sse;
-                proxy_http_version 1.1;
-                proxy_set_header Connection "";
-                proxy_set_header Cache-Control "no-cache";
-                proxy_set_header X-Accel-Buffering "no";
-                proxy_buffering off;
-                proxy_cache off;
-                chunked_transfer_encoding off;
-                proxy_read_timeout 86400s;
             }
 
             # Vault API proxy
@@ -161,7 +149,6 @@ data:
   VAULT_ADDR: "http://vault-active.vault-ent.svc.cluster.local:8200"
   PORT: "3001"
   FRONTEND_ORIGIN: "http://localhost:30080"
-  VAULT_MCP_IMAGE: "hashicorp/vault-mcp-server:latest"
 ---
 apiVersion: v1
 kind: Secret

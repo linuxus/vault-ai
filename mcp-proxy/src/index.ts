@@ -11,7 +11,6 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 const VAULT_ADDR = process.env.VAULT_ADDR || 'http://127.0.0.1:8200';
 const FRONTEND_ORIGIN = process.env.FRONTEND_ORIGIN || 'http://localhost:5173';
-const VAULT_MCP_IMAGE = process.env.VAULT_MCP_IMAGE || 'hashicorp/vault-mcp-server:latest';
 
 // Middleware
 app.use(cors({
@@ -61,7 +60,6 @@ app.post('/mcp/chat', async (req, res) => {
     {
       vaultToken,
       vaultAddr: VAULT_ADDR,
-      dockerImage: VAULT_MCP_IMAGE,
     },
     res
   );
@@ -73,6 +71,5 @@ app.post('/mcp/chat', async (req, res) => {
 app.listen(PORT, () => {
   console.log(`MCP Proxy server running on http://localhost:${PORT}`);
   console.log(`Vault address: ${VAULT_ADDR}`);
-  console.log(`Vault MCP image: ${VAULT_MCP_IMAGE}`);
   console.log(`Allowed origin: ${FRONTEND_ORIGIN}`);
 });

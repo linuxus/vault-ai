@@ -24,18 +24,25 @@ export interface StreamEvent {
   error?: string;
 }
 
+// JSON Schema property type (recursive)
+export interface JsonSchemaProperty {
+  type: string;
+  description?: string;
+  enum?: string[];
+  items?: JsonSchemaProperty;
+  properties?: Record<string, JsonSchemaProperty>;
+  additionalProperties?: boolean | JsonSchemaProperty;
+  required?: string[];
+}
+
 // Vault tool definitions
 export interface VaultTool {
   name: string;
   description: string;
   input_schema: {
     type: 'object';
-    properties: Record<string, {
-      type: string;
-      description: string;
-      enum?: string[];
-    }>;
-    required: string[];
+    properties: Record<string, JsonSchemaProperty>;
+    required?: string[];
   };
 }
 
@@ -43,7 +50,6 @@ export interface VaultTool {
 export interface ToolContext {
   vaultToken: string;
   vaultAddr: string;
-  dockerImage?: string;
 }
 
 // Tool execution result
