@@ -451,21 +451,23 @@ deploy_vault_ai() {
     log_info "Creating namespace '$VAULT_AI_NAMESPACE'..."
     kubectl apply -f "$K8S_DIR/namespace.yaml"
 
-    # Update the MCP proxy secret with Anthropic API key
-    if [ -n "$ANTHROPIC_API_KEY" ] && [ "$ANTHROPIC_API_KEY" != "placeholder" ]; then
-        log_info "Updating Anthropic API key secret..."
-        kubectl create secret generic mcp-proxy-secrets \
-            --namespace "$VAULT_AI_NAMESPACE" \
-            --from-literal=ANTHROPIC_API_KEY="$ANTHROPIC_API_KEY" \
-            --dry-run=client -o yaml | kubectl apply -f -
-    fi
-
     # Apply all Kubernetes manifests
     log_info "Applying Kubernetes manifests..."
     kubectl apply -f "$K8S_DIR/configmap.yaml"
     kubectl apply -f "$K8S_DIR/deployment.yaml"
     kubectl apply -f "$K8S_DIR/service.yaml"
     kubectl apply -f "$K8S_DIR/vault-mcp-server.yaml"
+
+    # Update the MCP proxy secret with Anthropic API key (AFTER configmap to override placeholder)
+    if [ -n "$ANTHROPIC_API_KEY" ] && [ "$ANTHROPIC_API_KEY" != "placeholder" ]; then
+        log_info "Updating Anthropic API key secret..."
+        kubectl create secret generic mcp-proxy-secrets \
+            --namespace "$VAULT_AI_NAMESPACE" \
+            --from-literal=ANTHROPIC_API_KEY="$ANTHROPIC_API_KEY" \
+            --dry-run=client -o yaml | kubectl apply -f -
+        # Restart mcp-proxy to pick up the new secret
+        kubectl rollout restart deployment/mcp-proxy -n "$VAULT_AI_NAMESPACE"
+    fi
 
     # Wait for deployments to be ready
     log_info "Waiting for Vault AI deployments to be ready..."
