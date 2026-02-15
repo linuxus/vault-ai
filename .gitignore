@@ -42,3 +42,11 @@ test-results/
 # Temporary files
 *.tmp
 *.temp
+
+# Presentations and diagrams
+*.pptx
+*.ppt
+workspace/
+
+# Excalidraw
+excalidraw-diagram-prompt.md
