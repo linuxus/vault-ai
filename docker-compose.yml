@@ -46,6 +46,7 @@ services:
       dockerfile: Dockerfile
     container_name: vault-ai-mcp-proxy
     environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
       - VAULT_ADDR=${VAULT_ADDR}
       - VAULT_SKIP_VERIFY=${VAULT_SKIP_VERIFY:-false}
       - VAULT_NAMESPACE=${VAULT_NAMESPACE:-}
