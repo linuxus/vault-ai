@@ -121,7 +121,7 @@ export function ChatPanel() {
             size="icon"
             onClick={toggleMaximize}
             title={isMaximized ? 'Minimize' : 'Maximize'}
-            className="h-8 w-8"
+            className="h-8 w-8 text-gray-600 hover:text-gray-900 hover:bg-gray-100"
           >
             {isMaximized ? (
               <Minimize2 className="h-4 w-4" />
@@ -134,7 +134,7 @@ export function ChatPanel() {
             size="icon"
             onClick={clearChat}
             title="Clear chat"
-            className="h-8 w-8"
+            className="h-8 w-8 text-gray-600 hover:text-gray-900 hover:bg-gray-100"
           >
             <Trash2 className="h-4 w-4" />
           </Button>
@@ -143,7 +143,7 @@ export function ChatPanel() {
             size="icon"
             onClick={() => setChatPanelOpen(false)}
             title="Close"
-            className="h-8 w-8"
+            className="h-8 w-8 text-gray-600 hover:text-gray-900 hover:bg-gray-100"
           >
             <X className="h-4 w-4" />
           </Button>
