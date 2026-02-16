@@ -53,3 +53,8 @@ excalidraw-diagram-prompt.md
 
 # Claude Code agent memory
 CLAUDE.md
+
+# Removed docs (kept locally)
+docs/PRD.md
+docs/RBAC_DEMO_SLIDES.md
+docs/VAULT_AI_DEMO.md
