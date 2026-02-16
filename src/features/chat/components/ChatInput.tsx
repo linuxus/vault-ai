@@ -41,7 +41,7 @@ export function ChatInput({ onSend, disabled, isStreaming }: ChatInputProps) {
   };
 
   return (
-    <div className="border-t bg-white p-4 dark:border-gray-700 dark:bg-gray-900">
+    <div className="border-t bg-white p-4">
       <div className="flex items-end gap-2">
         <textarea
           ref={textareaRef}
@@ -51,7 +51,7 @@ export function ChatInput({ onSend, disabled, isStreaming }: ChatInputProps) {
           placeholder="Ask about your secrets..."
           disabled={disabled || isStreaming}
           rows={1}
-          className="flex-1 resize-none rounded-lg border border-gray-300 px-3 py-2 text-sm placeholder:text-gray-400 focus:border-vault-purple focus:outline-none focus:ring-1 focus:ring-vault-purple disabled:bg-gray-50 disabled:text-gray-500 dark:border-gray-600 dark:bg-gray-800 dark:text-gray-100 dark:placeholder:text-gray-500 dark:disabled:bg-gray-800"
+          className="flex-1 resize-none rounded-lg border border-gray-300 px-3 py-2 text-sm placeholder:text-gray-400 focus:border-vault-purple focus:outline-none focus:ring-1 focus:ring-vault-purple disabled:bg-gray-50 disabled:text-gray-500"
         />
         <Button
           onClick={handleSubmit}

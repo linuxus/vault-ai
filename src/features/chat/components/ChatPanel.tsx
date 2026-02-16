@@ -92,7 +92,7 @@ export function ChatPanel() {
     <div
       ref={panelRef}
       style={{ height: `${height}px` }}
-      className="relative flex flex-col border-t-2 border-vault-purple bg-white shadow-[0_-4px_20px_rgba(0,0,0,0.1)] dark:bg-gray-900"
+      className="relative flex flex-col border-t-2 border-vault-purple bg-white shadow-[0_-4px_20px_rgba(0,0,0,0.1)]"
     >
       {/* Resize handle */}
       <div
@@ -105,14 +105,14 @@ export function ChatPanel() {
       </div>
 
       {/* Header */}
-      <div className="flex items-center justify-between border-b bg-gray-50 px-4 py-2 dark:border-gray-700 dark:bg-gray-800">
+      <div className="flex items-center justify-between border-b bg-gray-50 px-4 py-2">
         <div className="flex items-center gap-3">
           <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-vault-purple">
             <MessageSquare className="h-4 w-4 text-white" />
           </div>
           <div>
-            <h2 className="text-sm font-semibold text-gray-900 dark:text-gray-100">Vault AI Assistant</h2>
-            <p className="text-xs text-gray-500 dark:text-gray-400">AI-Powered Assistant</p>
+            <h2 className="text-sm font-semibold text-gray-900">Vault AI Assistant</h2>
+            <p className="text-xs text-gray-500">AI-Powered Assistant</p>
           </div>
         </div>
         <div className="flex items-center gap-1">
@@ -162,7 +162,7 @@ export function ChatPanel() {
               <div className="mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-vault-purple/10">
                 <MessageSquare className="h-6 w-6 text-vault-purple" />
               </div>
-              <h3 className="mb-2 font-medium text-gray-900 dark:text-gray-100">
+              <h3 className="mb-2 font-medium text-gray-900">
                 How can I help you today?
               </h3>
               <p className="mb-4 text-sm text-gray-500">
