@@ -100,6 +100,56 @@ if [ "$TARGET" = "all" ] || [ "$TARGET" = "mcp" ]; then
 fi
 
 # =============================================================================
+# Prune old images on Kind nodes (keep only the 2 most recent per image name)
+# =============================================================================
+log_step "Pruning Old Images from Kind Nodes"
+
+# Number of images to retain per image name (current + one previous)
+KEEP=2
+
+prune_old_images() {
+    local image_name=$1
+    local node=$2
+
+    # List all tags for this image on the node, sorted newest-first by tag name.
+    # crictl images outputs: IMAGE TAG IMAGE_ID SIZE
+    # We grep for our build- tagged images, then keep only excess ones.
+    local old_tags
+    old_tags=$(docker exec "$node" crictl images --no-trunc 2>/dev/null \
+        | grep "^docker.io/library/${image_name} " \
+        | grep "build-" \
+        | awk '{print $2}' \
+        | sort -r \
+        | tail -n +$((KEEP + 1)))
+
+    for tag in $old_tags; do
+        log_info "  Removing ${image_name}:${tag} from ${node}..."
+        docker exec "$node" crictl rmi "docker.io/library/${image_name}:${tag}" 2>/dev/null || true
+    done
+
+    # Also remove any dangling :latest tag that may have been left from the initial setup
+    if docker exec "$node" crictl images 2>/dev/null | grep "^docker.io/library/${image_name} " | grep -q "latest"; then
+        log_info "  Removing stale ${image_name}:latest from ${node}..."
+        docker exec "$node" crictl rmi "docker.io/library/${image_name}:latest" 2>/dev/null || true
+    fi
+}
+
+# Get all nodes in the Kind cluster
+KIND_NODES=$(kind get nodes --name "$KIND_CLUSTER_NAME" 2>/dev/null)
+
+for node in $KIND_NODES; do
+    log_info "Cleaning images on node: ${node}"
+    if [ "$TARGET" = "all" ] || [ "$TARGET" = "web" ]; then
+        prune_old_images "vault-ai-web" "$node"
+    fi
+    if [ "$TARGET" = "all" ] || [ "$TARGET" = "mcp" ]; then
+        prune_old_images "vault-ai-mcp-proxy" "$node"
+    fi
+done
+
+log_success "Old images pruned (keeping ${KEEP} most recent per image)"
+
+# =============================================================================
 # Update deployment images (forces new pods with the new image)
 # =============================================================================
 log_step "Updating Deployments"
@@ -146,6 +196,28 @@ if [ "$HTTP_CODE" = "200" ]; then
 else
     log_error "Health check returned HTTP $HTTP_CODE"
     log_info "Check logs: kubectl logs -n $VAULT_AI_NAMESPACE -l app.kubernetes.io/name=vault-ai-web --tail=20"
+fi
+
+# =============================================================================
+# Clean up old local Docker images (keep only the 2 most recent per name)
+# =============================================================================
+prune_local_images() {
+    local image_name=$1
+    local old_tags
+    old_tags=$(docker images "$image_name" --format '{{.Tag}}' \
+        | grep "^build-" \
+        | sort -r \
+        | tail -n +$((KEEP + 1)))
+    for tag in $old_tags; do
+        docker rmi "${image_name}:${tag}" 2>/dev/null || true
+    done
+}
+
+if [ "$TARGET" = "all" ] || [ "$TARGET" = "web" ]; then
+    prune_local_images "vault-ai-web"
+fi
+if [ "$TARGET" = "all" ] || [ "$TARGET" = "mcp" ]; then
+    prune_local_images "vault-ai-mcp-proxy"
 fi
 
 # =============================================================================
