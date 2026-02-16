@@ -22,10 +22,10 @@ const ToastViewport = forwardRef<
 ToastViewport.displayName = ToastPrimitive.Viewport.displayName;
 
 const toastVariants: Record<ToastType, string> = {
-  success: 'border-green-500 bg-green-50',
-  error: 'border-red-500 bg-red-50',
-  warning: 'border-yellow-500 bg-yellow-50',
-  info: 'border-blue-500 bg-blue-50',
+  success: 'border-green-500 bg-green-50 text-green-900',
+  error: 'border-red-500 bg-red-50 text-red-900',
+  warning: 'border-yellow-500 bg-yellow-50 text-yellow-900',
+  info: 'border-blue-500 bg-blue-50 text-blue-900',
 };
 
 const toastIcons: Record<ToastType, React.ReactNode> = {
