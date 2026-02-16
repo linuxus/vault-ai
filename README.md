@@ -25,7 +25,7 @@ Vault AI provides an intuitive interface for managing secrets, certificates, aut
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/vault-ai.git
+git clone https://github.com/linuxus/vault-ai.git
 cd vault-ai
 
 # Configure environment
@@ -64,7 +64,6 @@ open http://localhost:3000
 
 | Document | Description |
 |----------|-------------|
-| [PRD](docs/PRD.md) | Product requirements and user stories |
 | [Technical Spec](docs/TECHNICAL_SPEC.md) | Architecture and implementation details |
 | [Design System](docs/DESIGN_SYSTEM.md) | UI components and styling guidelines |
 | [MCP Integration](docs/MCP_INTEGRATION.md) | AI assistant and MCP server integration |
@@ -75,7 +74,6 @@ open http://localhost:3000
 ```
 vault-ai/
 ├── docs/                    # Documentation
-│   ├── PRD.md
 │   ├── TECHNICAL_SPEC.md
 │   ├── DESIGN_SYSTEM.md
 │   ├── MCP_INTEGRATION.md

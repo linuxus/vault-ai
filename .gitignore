@@ -50,3 +50,6 @@ workspace/
 
 # Excalidraw
 excalidraw-diagram-prompt.md
+
+# Claude Code agent memory
+CLAUDE.md
