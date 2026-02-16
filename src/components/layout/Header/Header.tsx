@@ -1,4 +1,4 @@
-import { LogOut, Menu, User } from 'lucide-react';
+import { LogOut, Menu, Moon, Sun, User } from 'lucide-react';
 import { Button } from '@/components/ui/Button';
 import { useAuth } from '@/hooks/useAuth';
 import { useUIStore } from '@/stores/uiStore';
@@ -6,10 +6,10 @@ import { formatTTL } from '@/utils/format';
 
 export function Header() {
   const { tokenInfo, logout } = useAuth();
-  const { toggleSidebar } = useUIStore();
+  const { toggleSidebar, theme, toggleTheme } = useUIStore();
 
   return (
-    <header className="flex h-header items-center justify-between border-b bg-white px-4">
+    <header className="flex h-header items-center justify-between border-b bg-white px-4 dark:border-gray-700 dark:bg-gray-900">
       <div className="flex items-center gap-4">
         <Button
           variant="ghost"
@@ -22,12 +22,25 @@ export function Header() {
       </div>
 
       <div className="flex items-center gap-4">
+        <Button
+          variant="ghost"
+          size="icon"
+          onClick={toggleTheme}
+          title={theme === 'light' ? 'Switch to dark mode' : 'Switch to light mode'}
+          className="h-9 w-9"
+        >
+          {theme === 'light' ? (
+            <Moon className="h-4 w-4" />
+          ) : (
+            <Sun className="h-4 w-4" />
+          )}
+        </Button>
         {tokenInfo && (
-          <div className="flex items-center gap-2 text-sm text-gray-600">
+          <div className="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-300">
             <User className="h-4 w-4" />
             <span>{tokenInfo.display_name || 'Token'}</span>
             {tokenInfo.ttl > 0 && (
-              <span className="rounded bg-gray-100 px-2 py-0.5 text-xs">
+              <span className="rounded bg-gray-100 px-2 py-0.5 text-xs dark:bg-gray-700">
                 TTL: {formatTTL(tokenInfo.ttl)}
               </span>
             )}

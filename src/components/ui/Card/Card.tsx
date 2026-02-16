@@ -5,7 +5,7 @@ const Card = forwardRef<HTMLDivElement, HTMLAttributes<HTMLDivElement>>(
   ({ className, ...props }, ref) => (
     <div
       ref={ref}
-      className={cn('rounded-lg border bg-white shadow-sm', className)}
+      className={cn('rounded-lg border bg-white shadow-sm dark:border-gray-700 dark:bg-gray-800', className)}
       {...props}
     />
   )
@@ -16,7 +16,7 @@ const CardHeader = forwardRef<HTMLDivElement, HTMLAttributes<HTMLDivElement>>(
   ({ className, ...props }, ref) => (
     <div
       ref={ref}
-      className={cn('flex flex-col gap-1.5 border-b p-4', className)}
+      className={cn('flex flex-col gap-1.5 border-b p-4 dark:border-gray-700', className)}
       {...props}
     />
   )
@@ -36,7 +36,7 @@ CardTitle.displayName = 'CardTitle';
 
 const CardDescription = forwardRef<HTMLParagraphElement, HTMLAttributes<HTMLParagraphElement>>(
   ({ className, ...props }, ref) => (
-    <p ref={ref} className={cn('text-sm text-gray-500', className)} {...props} />
+    <p ref={ref} className={cn('text-sm text-gray-500 dark:text-gray-400', className)} {...props} />
   )
 );
 CardDescription.displayName = 'CardDescription';
@@ -52,7 +52,7 @@ const CardFooter = forwardRef<HTMLDivElement, HTMLAttributes<HTMLDivElement>>(
   ({ className, ...props }, ref) => (
     <div
       ref={ref}
-      className={cn('flex items-center border-t p-4', className)}
+      className={cn('flex items-center border-t p-4 dark:border-gray-700', className)}
       {...props}
     />
   )

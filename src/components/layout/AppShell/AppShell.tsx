@@ -13,7 +13,7 @@ export function AppShell({ children }: AppShellProps) {
   const { chatPanelOpen } = useUIStore();
 
   return (
-    <div className="flex h-screen bg-gray-50">
+    <div className="flex h-screen bg-gray-50 dark:bg-gray-950 dark:text-gray-100">
       <Sidebar />
       <div className="flex flex-1 flex-col overflow-hidden">
         <Header />

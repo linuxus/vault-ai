@@ -53,7 +53,7 @@ export function SecretViewer({ data, className }: SecretViewerProps) {
   }
 
   return (
-    <div className={cn('rounded-md border divide-y', className)}>
+    <div className={cn('rounded-md border divide-y dark:border-gray-700 dark:divide-gray-700', className)}>
       {entries.map(([key, value]) => {
         const stringValue = formatValue(value);
         const isVisible = visibleKeys.has(key);
@@ -62,7 +62,7 @@ export function SecretViewer({ data, className }: SecretViewerProps) {
         return (
           <div key={key} className="flex items-start gap-4 p-4">
             <div className="min-w-0 flex-1">
-              <div className="mb-1 text-sm font-medium text-gray-700">{key}</div>
+              <div className="mb-1 text-sm font-medium text-gray-700 dark:text-gray-300">{key}</div>
               <div
                 className={cn(
                   'break-all font-mono text-sm',

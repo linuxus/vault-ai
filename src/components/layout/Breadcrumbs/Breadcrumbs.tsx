@@ -20,7 +20,7 @@ export function Breadcrumbs({ items, className }: BreadcrumbsProps) {
     >
       <Link
         to="/"
-        className="flex items-center text-gray-500 hover:text-gray-700"
+        className="flex items-center text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200"
       >
         <Home className="h-4 w-4" />
       </Link>
@@ -31,12 +31,12 @@ export function Breadcrumbs({ items, className }: BreadcrumbsProps) {
           {item.href && index < items.length - 1 ? (
             <Link
               to={item.href}
-              className="text-gray-500 hover:text-gray-700 hover:underline"
+              className="text-gray-500 hover:text-gray-700 hover:underline dark:text-gray-400 dark:hover:text-gray-200"
             >
               {item.label}
             </Link>
           ) : (
-            <span className="font-medium text-gray-900">{item.label}</span>
+            <span className="font-medium text-gray-900 dark:text-gray-100">{item.label}</span>
           )}
         </div>
       ))}

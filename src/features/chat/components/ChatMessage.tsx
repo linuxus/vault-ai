@@ -16,8 +16,8 @@ export function ChatMessage({ message }: ChatMessageProps) {
       className={cn(
         'flex gap-3 px-4 py-4',
         isUser
-          ? 'bg-white'
-          : 'bg-gradient-to-r from-gray-50 to-white'
+          ? 'bg-white dark:bg-gray-900'
+          : 'bg-gradient-to-r from-gray-50 to-white dark:from-gray-800 dark:to-gray-900'
       )}
     >
       <div
@@ -61,11 +61,11 @@ export function ChatMessage({ message }: ChatMessageProps) {
 
         {message.content && (
           isUser ? (
-            <div className="rounded-lg bg-gray-100 px-3 py-2 text-sm text-gray-800">
+            <div className="rounded-lg bg-gray-100 px-3 py-2 text-sm text-gray-800 dark:bg-gray-700 dark:text-gray-200">
               {message.content}
             </div>
           ) : (
-            <div className="rounded-lg border border-gray-100 bg-white px-4 py-3 shadow-sm">
+            <div className="rounded-lg border border-gray-100 bg-white px-4 py-3 shadow-sm dark:border-gray-700 dark:bg-gray-800">
               <FormattedMessage content={message.content} />
             </div>
           )

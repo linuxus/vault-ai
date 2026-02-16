@@ -18,6 +18,12 @@ const SecretDetailPage = lazy(() =>
   }))
 );
 
+const SecretsOverviewPage = lazy(() =>
+  import('@/features/secrets/components/SecretsOverview').then((m) => ({
+    default: m.SecretsOverview,
+  }))
+);
+
 function LoadingFallback() {
   return (
     <div className="flex h-64 items-center justify-center">
@@ -32,24 +38,13 @@ function ProtectedRoutes() {
       <AppShell>
         <Suspense fallback={<LoadingFallback />}>
           <Routes>
-            <Route path="/secrets" element={<SecretsOverview />} />
+            <Route path="/secrets" element={<SecretsOverviewPage />} />
             <Route path="/secrets/:mount/*" element={<SecretsRouter />} />
             <Route path="*" element={<Navigate to="/secrets" replace />} />
           </Routes>
         </Suspense>
       </AppShell>
     </AuthGuard>
-  );
-}
-
-function SecretsOverview() {
-  return (
-    <div className="space-y-4">
-      <h1 className="text-2xl font-bold">Secrets</h1>
-      <p className="text-gray-600">
-        Select a secrets engine from the sidebar to browse secrets.
-      </p>
-    </div>
   );
 }
 

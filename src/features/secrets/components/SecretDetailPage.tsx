@@ -111,11 +111,11 @@ export function SecretDetailPage() {
           </CardHeader>
           <CardContent className="space-y-4">
             <div>
-              <div className="text-xs text-gray-500">Version</div>
+              <div className="text-xs text-gray-500 dark:text-gray-400">Version</div>
               <div className="text-sm font-medium">{secret.metadata.version}</div>
             </div>
             <div>
-              <div className="text-xs text-gray-500">Created</div>
+              <div className="text-xs text-gray-500 dark:text-gray-400">Created</div>
               <div className="flex items-center gap-2 text-sm">
                 <Clock className="h-4 w-4 text-gray-400" />
                 {formatDate(secret.metadata.created_time)}
@@ -124,11 +124,11 @@ export function SecretDetailPage() {
             {metadata && (
               <>
                 <div>
-                  <div className="text-xs text-gray-500">Total Versions</div>
+                  <div className="text-xs text-gray-500 dark:text-gray-400">Total Versions</div>
                   <div className="text-sm font-medium">{metadata.current_version}</div>
                 </div>
                 <div>
-                  <div className="text-xs text-gray-500">Last Updated</div>
+                  <div className="text-xs text-gray-500 dark:text-gray-400">Last Updated</div>
                   <div className="text-sm">{formatDate(metadata.updated_time)}</div>
                 </div>
               </>

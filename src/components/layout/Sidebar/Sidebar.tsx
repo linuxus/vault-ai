@@ -6,7 +6,6 @@ import { useVaultClient } from '@/hooks/useVaultClient';
 import { encodeMountPath } from '@/utils/format';
 import {
   Key,
-  Database,
   ChevronRight,
   Loader2,
   X,
@@ -14,6 +13,7 @@ import {
   Shield,
 } from 'lucide-react';
 import { Button } from '@/components/ui/Button';
+import { getMountIcon } from '@/utils/mountIcons';
 
 interface KVMount {
   path: string;
@@ -26,6 +26,7 @@ export function Sidebar() {
   const client = useVaultClient();
   const [mounts, setMounts] = useState<KVMount[]>([]);
   const [loading, setLoading] = useState(true);
+  const [enginesExpanded, setEnginesExpanded] = useState(false);
 
   useEffect(() => {
     async function loadMounts() {
@@ -120,20 +121,30 @@ export function Sidebar() {
 
           {/* Secrets Engines */}
           <div className="mb-6">
-            <h3 className="mb-3 px-2 text-xs font-semibold uppercase tracking-wider text-gray-400">
-              Secrets Engines
-            </h3>
+            <button
+              onClick={() => setEnginesExpanded((prev) => !prev)}
+              className="mb-3 flex w-full items-center justify-between px-2 text-xs font-semibold uppercase tracking-wider text-gray-400 hover:text-gray-300 transition-colors"
+            >
+              <span>Secrets Engines</span>
+              <ChevronRight
+                className={cn(
+                  'h-3.5 w-3.5 transition-transform duration-200',
+                  enginesExpanded && 'rotate-90'
+                )}
+              />
+            </button>
             {loading ? (
               <div className="flex items-center justify-center py-4">
                 <Loader2 className="h-6 w-6 animate-spin text-gray-400" />
               </div>
             ) : mounts.length === 0 ? (
               <p className="px-2 text-sm text-gray-400">No KV mounts found</p>
-            ) : (
+            ) : enginesExpanded ? (
               <ul className="space-y-1">
                 {mounts.map((mount) => {
                   // Encode mount path to handle slashes in mount names (/ -> ~)
                   const encodedPath = encodeMountPath(mount.path);
+                  const MountIcon = getMountIcon(mount.path);
                   return (
                     <li key={mount.path}>
                       <NavLink
@@ -152,7 +163,7 @@ export function Sidebar() {
                             ? 'bg-vault-purple/30'
                             : 'bg-gray-700'
                         )}>
-                          <Database className="h-5 w-5" />
+                          <MountIcon className="h-5 w-5" />
                         </div>
                         <span className="flex-1 truncate font-medium">{mount.path}</span>
                         <span className="shrink-0 rounded-full bg-gray-700 px-2 py-0.5 text-xs font-medium">
@@ -164,7 +175,7 @@ export function Sidebar() {
                   );
                 })}
               </ul>
-            )}
+            ) : null}
           </div>
 
           {/* Quick Access */}

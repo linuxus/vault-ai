@@ -12,13 +12,13 @@ const buttonVariants = cva(
         primary:
           'bg-vault-purple text-white hover:bg-vault-purple-dark focus-visible:ring-vault-purple',
         secondary:
-          'bg-gray-100 text-gray-900 hover:bg-gray-200 focus-visible:ring-gray-500',
+          'bg-gray-100 text-gray-900 hover:bg-gray-200 focus-visible:ring-gray-500 dark:bg-gray-700 dark:text-gray-100 dark:hover:bg-gray-600',
         danger:
           'bg-red-600 text-white hover:bg-red-700 focus-visible:ring-red-500',
         ghost:
-          'hover:bg-gray-100 hover:text-gray-900 focus-visible:ring-gray-500',
+          'hover:bg-gray-100 hover:text-gray-900 focus-visible:ring-gray-500 dark:hover:bg-gray-700 dark:hover:text-gray-100',
         outline:
-          'border border-gray-300 bg-transparent hover:bg-gray-50 focus-visible:ring-gray-500',
+          'border border-gray-300 bg-transparent hover:bg-gray-50 focus-visible:ring-gray-500 dark:border-gray-600 dark:hover:bg-gray-700',
         link: 'text-vault-purple underline-offset-4 hover:underline focus-visible:ring-vault-purple',
       },
       size: {

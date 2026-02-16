@@ -47,12 +47,12 @@ export function PathBrowser({
   });
 
   return (
-    <div className={cn('rounded-md border divide-y', className)}>
+    <div className={cn('rounded-md border divide-y dark:border-gray-700 dark:divide-gray-700', className)}>
       {sortedItems.map((item) => (
         <button
           key={item.name}
           onClick={() => onNavigate(item)}
-          className="flex w-full items-center gap-3 px-4 py-3 text-left transition-colors hover:bg-gray-50"
+          className="flex w-full items-center gap-3 px-4 py-3 text-left transition-colors hover:bg-gray-50 dark:hover:bg-gray-700/50"
         >
           {item.isFolder ? (
             <Folder className="h-5 w-5 shrink-0 text-vault-purple" />
