@@ -24,7 +24,7 @@
 #   ./scripts/setup-full-environment.sh
 #
 # Environment Variables (optional):
-#   VAULT_LICENSE_PATH  - Path to vault.hclic (default: ~/Dev/Licenses/vault.hclic)
+#   VAULT_LICENSE_PATH  - Path to vault.hclic (no default, must be set)
 #   KIND_CLUSTER_NAME   - Name of Kind cluster (default: vault-kind)
 #   SKIP_DEMO_DATA      - Set to "true" to skip demo data setup
 #   ANTHROPIC_API_KEY   - API key for Claude (required for MCP chat features)
@@ -41,7 +41,7 @@ KIND_CLUSTER_NAME="${KIND_CLUSTER_NAME:-vault-kind}"
 VAULT_NAMESPACE="vault-ent"
 VAULT_AI_NAMESPACE="vault-ai"
 VAULT_RELEASE_NAME="vault"
-VAULT_LICENSE_PATH="${VAULT_LICENSE_PATH:-$HOME/Library/CloudStorage/OneDrive-IBM/Dev/Licenses/vault.hclic}"
+VAULT_LICENSE_PATH="${VAULT_LICENSE_PATH:?ERROR: VAULT_LICENSE_PATH must be set to your vault.hclic file (e.g. export VAULT_LICENSE_PATH=/path/to/vault.hclic)}"
 VAULT_INIT_FILE="$PROJECT_DIR/vault-init.json"
 KIND_CONFIG_FILE="$PROJECT_DIR/kind-config.yaml"
 VAULT_VALUES_FILE="$PROJECT_DIR/vault-values.yaml"

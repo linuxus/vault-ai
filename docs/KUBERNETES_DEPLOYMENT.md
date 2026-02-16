@@ -48,8 +48,6 @@ A Vault Enterprise license file is required. Set the path via environment variab
 export VAULT_LICENSE_PATH="/path/to/vault.hclic"
 ```
 
-Default location: `~/Library/CloudStorage/OneDrive-IBM/Dev/Licenses/vault.hclic`
-
 ### Anthropic API Key
 
 For MCP chat features, set your Anthropic API key:
@@ -139,7 +137,7 @@ This script:
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `KIND_CLUSTER_NAME` | `vault-kind` | Name of the Kind cluster |
-| `VAULT_LICENSE_PATH` | `~/...Licenses/vault.hclic` | Path to Vault license |
+| `VAULT_LICENSE_PATH` | (required) | Path to Vault Enterprise license file |
 | `ANTHROPIC_API_KEY` | (from mcp-proxy/.env) | API key for Claude |
 | `SKIP_DEMO_DATA` | `false` | Skip demo data setup |
 
