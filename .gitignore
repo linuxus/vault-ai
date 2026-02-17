@@ -60,5 +60,8 @@ docs/RBAC_DEMO_SLIDES.md
 docs/VAULT_AI_DEMO.md
 mcp-proxy/BUG_REPORT_HASHICORP.md
 
+# Demo tokens (local only)
+scripts/demo-tokens.env
+
 # Blog post and screenshots (local only)
 scripts/blog-screenshots/
