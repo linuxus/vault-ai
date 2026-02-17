@@ -59,3 +59,6 @@ docs/PRD.md
 docs/RBAC_DEMO_SLIDES.md
 docs/VAULT_AI_DEMO.md
 mcp-proxy/BUG_REPORT_HASHICORP.md
+
+# Blog post and screenshots (local only)
+scripts/blog-screenshots/
