@@ -106,8 +106,14 @@ npm run build
 |----------|-------------|----------|
 | `VAULT_ADDR` | Vault server URL | Yes |
 | `ANTHROPIC_API_KEY` | Anthropic API key for AI features | Yes |
-| `VAULT_SKIP_VERIFY` | Skip TLS verification (dev only) | No |
+| `VAULT_CACERT` | Path to the CA bundle that signed Vault's listener cert (for private/self-signed CAs, e.g. `vault server -dev-tls`) | No |
+| `VAULT_CAPATH` | Path to a directory of PEM CA files (alternative to `VAULT_CACERT`) | No |
+| `VAULT_SKIP_VERIFY` | Skip TLS verification (dev only; prefer `VAULT_CACERT`) | No |
+| `VAULT_CLIENT_CERT` / `VAULT_CLIENT_KEY` | Client certificate + key for mutual TLS to Vault | No |
+| `VAULT_TLS_SERVER_NAME` | Override the SNI / certificate hostname during the TLS handshake | No |
 | `VITE_APP_TITLE` | Browser tab title | No |
+
+> TLS variables are read once at MCP proxy startup — restart the proxy after changing them. A misconfigured `VAULT_CACERT`/`VAULT_CAPATH` path fails fast at boot with a clear error.
 
 ## Documentation
 

@@ -4,6 +4,7 @@
  */
 
 import type { VaultTool, ToolContext, ToolResult } from '../types.js';
+import { vaultFetch } from '../tls.js';
 
 // Tool definitions matching vault-mcp-server
 export const VAULT_TOOLS: VaultTool[] = [
@@ -245,7 +246,7 @@ async function vaultRequest(
   const url = `${ctx.vaultAddr}/v1/${path}`;
 
   try {
-    const response = await fetch(url, {
+    const response = await vaultFetch(url, {
       method,
       headers: {
         'X-Vault-Token': ctx.vaultToken,

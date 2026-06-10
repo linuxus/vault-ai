@@ -287,7 +287,11 @@ CMD ["node", "server.js"]
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| `VAULT_SKIP_VERIFY` | Skip TLS verification (dev only) | `false` |
+| `VAULT_CACERT` | Path to the CA bundle that signed Vault's listener cert (private/self-signed CAs) | (none) |
+| `VAULT_CAPATH` | Path to a directory of PEM CA files (alternative to `VAULT_CACERT`) | (none) |
+| `VAULT_SKIP_VERIFY` | Skip TLS verification (dev only; prefer `VAULT_CACERT`) | `false` |
+| `VAULT_CLIENT_CERT` / `VAULT_CLIENT_KEY` | Client cert + key for mutual TLS to Vault | (none) |
+| `VAULT_TLS_SERVER_NAME` | Override SNI / certificate hostname during the TLS handshake | (none) |
 | `VAULT_NAMESPACE` | Enterprise namespace | (none) |
 | `MCP_PROXY_PORT` | MCP proxy listen port | `3001` |
 | `MCP_LOG_LEVEL` | Logging verbosity | `info` |
