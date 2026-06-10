@@ -6,6 +6,7 @@
  */
 
 import type { VaultTool, ToolResult, ToolContext, JsonSchemaProperty } from './types.js';
+import { vaultFetch } from './tls.js';
 
 // MCP JSON-RPC types
 interface JsonRpcRequest {
@@ -104,7 +105,7 @@ export class MCPHttpClient {
 
     console.log(`[MCP] Sending ${method} to ${this.url}`);
 
-    const response = await fetch(this.url, {
+    const response = await vaultFetch(this.url, {
       method: 'POST',
       headers,
       body: JSON.stringify(request),
@@ -156,7 +157,7 @@ export class MCPHttpClient {
     console.log(`[MCP] Sending notification ${method} to ${this.url}`);
 
     try {
-      const response = await fetch(this.url, {
+      const response = await vaultFetch(this.url, {
         method: 'POST',
         headers,
         body: JSON.stringify(notification),
@@ -365,7 +366,7 @@ export async function isMCPServerAvailable(): Promise<boolean> {
   const client = getMCPClient();
 
   try {
-    const response = await fetch(client['url'], {
+    const response = await vaultFetch(client['url'], {
       method: 'GET',
       headers: { Accept: 'application/json' },
     });

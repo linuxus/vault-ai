@@ -49,10 +49,18 @@ services:
       - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
       - VAULT_ADDR=${VAULT_ADDR}
       - VAULT_SKIP_VERIFY=${VAULT_SKIP_VERIFY:-false}
+      # Path INSIDE the container to the CA that signed Vault's listener cert.
+      # Mount it via the `volumes` block below. Empty by default.
+      - VAULT_CACERT=${VAULT_CACERT:-}
+      - VAULT_CAPATH=${VAULT_CAPATH:-}
       - VAULT_NAMESPACE=${VAULT_NAMESPACE:-}
       - MCP_LOG_LEVEL=${MCP_LOG_LEVEL:-info}
       - FRONTEND_ORIGIN=${FRONTEND_ORIGIN:-http://localhost:3000}
       - PORT=3001
+    # To trust a private/self-signed Vault CA, mount the bundle read-only and
+    # set VAULT_CACERT to the in-container path (e.g. /certs/vault-ca.pem):
+    # volumes:
+    #   - ./certs:/certs:ro
     expose:
       - "3001"
     restart: unless-stopped

@@ -3,9 +3,13 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import type { ChatRequest, ChatMessage } from './types.js';
 import { processChat } from './agent.js';
+import { initVaultTls } from './tls.js';
 
 // Load environment variables
 dotenv.config();
+
+// Resolve TLS config up front so a bad CA/cert path fails fast at startup.
+initVaultTls();
 
 const app = express();
 const PORT = process.env.PORT || 3001;
